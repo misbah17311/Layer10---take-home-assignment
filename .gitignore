@@ -24,3 +24,6 @@ output/extraction_log.txt
 Gemini(API).txt
 layer10-takehome.pdf
 lib/
+WRITEUP.tex
+WRITEUP.pdf
+*.tex
