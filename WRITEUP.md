@@ -90,7 +90,7 @@ This project implements a **grounded long-term memory system** that extracts str
 ### 4. Design Decisions & Tradeoffs
 
 #### 4a. LLM Selection
-- **Chosen**: Llama 3.1 8B via OpenRouter (paid API)
+- **Chosen**: Llama 3.1 8B via OpenRouter
 - **Why not Gemini**: Severe rate limits (~15 requests/minute), quota exhaustion
 - **Why not Ollama local**: RTX 3050 4GB VRAM too constrained — qwen2.5:7b at 2.5 tok/s was impractical for 671 emails
 - **Why not Groq**: 500K tokens/day cap would require multi-day extraction
@@ -100,7 +100,7 @@ This project implements a **grounded long-term memory system** that extracts str
 - **Discovery**: Enron stores identical emails in multiple folders (discussion_threads, info, all_documents)
 - **Impact**: 2,000 rows → only 671 unique email bodies
 - **Solution**: SHA-256 hash on cleaned body text before LLM calls
-- **Savings**: ~66% reduction in API costs and extraction time
+- **Savings**: ~66% reduction in API calls and extraction time
 
 #### 4c. Entity Deduplication Strategy
 Three-pass approach using UnionFind:
