@@ -1,0 +1,642 @@
+{
+  "query": "Entity: Tim Belden",
+  "context": {
+    "entity": {
+      "id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+      "canonical_name": "Tim Belden",
+      "entity_type": "person",
+      "aliases": [
+        "Tim Belden/HOU/ECT@ECT",
+        "tim.belden@enron.com"
+      ],
+      "mention_count": 21,
+      "degree": 45
+    },
+    "relationships": [
+      {
+        "excerpts": [
+          "--- EMAIL BODY ---"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "DJ Puget Sound Asks FERC For Price Caps In Western Region",
+        "other_type": "meeting",
+        "other_id": "8ec6414c-381e-45e3-bb36-7a530bf024dc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Valarie Sabo",
+        "other_type": "person",
+        "other_id": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Fran Chang",
+        "other_type": "person",
+        "other_id": "f665ad90-09b3-4268-84f3-359a36c6b2b5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Monica Lande",
+        "other_type": "person",
+        "other_id": "8b80b937-31ba-4215-8a25-bc58388c8d0a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Greg Wolfe",
+        "other_type": "person",
+        "other_id": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mike Swerzbin",
+        "other_type": "person",
+        "other_id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Holli Krebs",
+        "other_type": "person",
+        "other_id": "fb2d3730-7cd9-442d-967b-011fcea8d76e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jeff Richter",
+        "other_type": "person",
+        "other_id": "bc88c919-71a1-405e-af76-f02001fed2b8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Robert Badeer",
+        "other_type": "person",
+        "other_id": "806280d9-56c0-4638-bede-b330463cfc76",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Fischer",
+        "other_type": "person",
+        "other_id": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Lester Rawson",
+        "other_type": "person",
+        "other_id": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Paul Choi",
+        "other_type": "person",
+        "other_id": "6f135d4b-6784-49b5-9a6a-c2c198b1dfb1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Stewart Rosman",
+        "other_type": "person",
+        "other_id": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Sean Crandall",
+        "other_type": "person",
+        "other_id": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Tom Alonso",
+        "other_type": "person",
+        "other_id": "071f58e9-4ff8-45b4-8dda-11d046ce6bdc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris",
+        "other_type": "person",
+        "other_id": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Debra Davidson",
+        "other_type": "person",
+        "other_id": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kim Ward",
+        "other_type": "person",
+        "other_id": "760933d6-5b8f-4ebc-b6b8-b92d466013fa",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John Malowney",
+        "other_type": "person",
+        "other_id": "d07af5ef-6640-40f4-9028-08760d3e93ce",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Diana Scholtes",
+        "other_type": "person",
+        "other_id": "f9901b68-8a49-4536-9101-67d7d1d36272",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: heather.dunton@enron.com",
+          "To: heather.dunton@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Heather Dunton@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Heather Dunton",
+        "other_type": "person",
+        "other_id": "c2a23607-8df9-4a07-b4b9-64a61c76a8f9",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: murray.o'neil@enron.com",
+          "To: murray.o'neil@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Murray O'Neil@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Murray O'Neil",
+        "other_type": "person",
+        "other_id": "db938e97-35b8-4bf5-a042-a36efc04ecc6",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: kathy.axford@enron.com",
+          "To: kathy.axford@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Kathy Axford@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kathy Axford",
+        "other_type": "person",
+        "other_id": "d9426497-504c-464f-9ebe-94e81f544152",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: geir.solberg@enron.com",
+          "To: geir.solberg@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Geir Solberg@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Geir Solberg",
+        "other_type": "person",
+        "other_id": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: chris.stokley@enron.com",
+          "To: chris.stokley@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Chris Stokley@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris Stokley",
+        "other_type": "person",
+        "other_id": "7dc855d2-8b7e-4c15-ac49-5e3e7b75a426",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: caroline.emmert@enron.com",
+          "To: caroline.emmert@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Caroline Emmert@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Caroline Emmert",
+        "other_type": "person",
+        "other_id": "2cf8f479-6d96-42b6-a305-175312eccb9c",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: tim.heizenrader@enron.com",
+          "To: tim.heizenrader@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Tim Heizenrader@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Tim Heizenrader",
+        "other_type": "person",
+        "other_id": "079b32e4-33f0-41e9-b596-66f1aa3d0bd2",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: cooper.richey@enron.com",
+          "To: cooper.richey@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Cooper Richey@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Cooper Richey",
+        "other_type": "person",
+        "other_id": "013250b5-0b97-4474-b545-329dcad17eb4",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: donna.johnson@enron.com",
+          "To: donna.johnson@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Donna Johnson@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Donna Johnson",
+        "other_type": "person",
+        "other_id": "f0cb7562-ae3f-4137-8b89-be19612dcb1e",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: julie.sarnowski@enron.com",
+          "To: julie.sarnowski@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Julie Sarnowski@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Julie Sarnowski",
+        "other_type": "person",
+        "other_id": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I have asked the risk group to put together a list of things they need to know from us each day;"
+        ],
+        "confidence": 0.9,
+        "rel_type": "DECIDED",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 1,
+        "detail": "to ask the risk group to put together a list of things they need to know from us each day",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm asking everyone in West Power Trading to go into \"The Pulse\" and fill out the survey."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "The Pulse",
+        "other_type": "project",
+        "other_id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "mention_count": 1,
+        "detail": "Everyone in West Power Trading should fill out the survey.",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm asking everyone in West Power Trading to go into \"The Pulse\" and fill out the survey."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "West Power Trading",
+        "other_type": "organization",
+        "other_id": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Everyone should have received the e-mail below regarding \"The Pulse.\""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "The Pulse",
+        "other_type": "project",
+        "other_id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "SUBJECT: PRC Process"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "PRC Process",
+        "other_type": "project",
+        "other_id": "e1e7c968-6373-4f47-adde-0796013728a1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "FROM: tim.belden@enron.com",
+          "Forwarded by Christopher F Calger/PDX/ECT",
+          "From: tim.belden@enron.com (Tim Belden)",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "The attached file summarizes FERC's recent California order."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "California",
+        "other_type": "topic",
+        "other_id": "e5c71022-7ced-449e-802e-ea8c5ff0abef",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "let me know when you decide who's responsibility the report will be"
+        ],
+        "confidence": 0.8,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Forward Obligation Report",
+        "other_type": "project",
+        "other_id": "2600042d-b395-4688-9574-2c76ec4b4a73",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mary Hain",
+        "other_type": "person",
+        "other_id": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To: Tim Belden/HOU/ECT@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Rhonda L Denton",
+        "other_type": "person",
+        "other_id": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Tim, I will be writing up the proceedures for the forward obligation report",
+          "thank all of you for allowing me the opportunity to interview"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "TO: tim.belden@enron.com",
+          "Forwarded by Carla Hoffman/PDX/ECT on 10/30/2000 02:23 PM",
+          "To: tim.belden@enron.com, robert.badeer@enron.com, jeff.richter@enron.com, phillip.platter@enron.com, mike.swerzbin@enron.com, diana.scholtes@enron.com, sean.crandall@enron.com, matt.motley@enron.com,",
+          "--- EMAIL BODY ---"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Carla Hoffman",
+        "other_type": "person",
+        "other_id": "bac9dad7-defa-4951-998b-ab052d426030",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "report to Tim Belden"
+        ],
+        "confidence": 1.0,
+        "rel_type": "REPORTS_TO",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2925 @@
+{
+  "query": "Path: Tim Belden -> Kate Symes",
+  "path": {
+    "nodes": [
+      {
+        "name": "Tim Belden",
+        "id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "type": "person"
+      },
+      {
+        "name": "Kate Symes",
+        "id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "type": "person"
+      }
+    ],
+    "relationships": [
+      {
+        "confidence": 1.0,
+        "type": "REPORTS_TO"
+      }
+    ],
+    "hops": 1
+  },
+  "source_context": {
+    "entity": {
+      "id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+      "canonical_name": "Tim Belden",
+      "entity_type": "person",
+      "aliases": [
+        "Tim Belden/HOU/ECT@ECT",
+        "tim.belden@enron.com"
+      ],
+      "mention_count": 21,
+      "degree": 45
+    },
+    "relationships": [
+      {
+        "excerpts": [
+          "--- EMAIL BODY ---"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "DJ Puget Sound Asks FERC For Price Caps In Western Region",
+        "other_type": "meeting",
+        "other_id": "8ec6414c-381e-45e3-bb36-7a530bf024dc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Valarie Sabo",
+        "other_type": "person",
+        "other_id": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Fran Chang",
+        "other_type": "person",
+        "other_id": "f665ad90-09b3-4268-84f3-359a36c6b2b5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Monica Lande",
+        "other_type": "person",
+        "other_id": "8b80b937-31ba-4215-8a25-bc58388c8d0a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Greg Wolfe",
+        "other_type": "person",
+        "other_id": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mike Swerzbin",
+        "other_type": "person",
+        "other_id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Holli Krebs",
+        "other_type": "person",
+        "other_id": "fb2d3730-7cd9-442d-967b-011fcea8d76e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jeff Richter",
+        "other_type": "person",
+        "other_id": "bc88c919-71a1-405e-af76-f02001fed2b8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Robert Badeer",
+        "other_type": "person",
+        "other_id": "806280d9-56c0-4638-bede-b330463cfc76",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Fischer",
+        "other_type": "person",
+        "other_id": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Lester Rawson",
+        "other_type": "person",
+        "other_id": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Paul Choi",
+        "other_type": "person",
+        "other_id": "6f135d4b-6784-49b5-9a6a-c2c198b1dfb1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Stewart Rosman",
+        "other_type": "person",
+        "other_id": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Sean Crandall",
+        "other_type": "person",
+        "other_id": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Tom Alonso",
+        "other_type": "person",
+        "other_id": "071f58e9-4ff8-45b4-8dda-11d046ce6bdc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris",
+        "other_type": "person",
+        "other_id": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Debra Davidson",
+        "other_type": "person",
+        "other_id": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kim Ward",
+        "other_type": "person",
+        "other_id": "760933d6-5b8f-4ebc-b6b8-b92d466013fa",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John Malowney",
+        "other_type": "person",
+        "other_id": "d07af5ef-6640-40f4-9028-08760d3e93ce",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "A couple of things happened yesterday where communicating with our risk team could have saved them a lot of time."
+        ],
+        "confidence": 0.9,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Diana Scholtes",
+        "other_type": "person",
+        "other_id": "f9901b68-8a49-4536-9101-67d7d1d36272",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: heather.dunton@enron.com",
+          "To: heather.dunton@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Heather Dunton@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Heather Dunton",
+        "other_type": "person",
+        "other_id": "c2a23607-8df9-4a07-b4b9-64a61c76a8f9",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: murray.o'neil@enron.com",
+          "To: murray.o'neil@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Murray O'Neil@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Murray O'Neil",
+        "other_type": "person",
+        "other_id": "db938e97-35b8-4bf5-a042-a36efc04ecc6",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: kathy.axford@enron.com",
+          "To: kathy.axford@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Kathy Axford@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kathy Axford",
+        "other_type": "person",
+        "other_id": "d9426497-504c-464f-9ebe-94e81f544152",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: geir.solberg@enron.com",
+          "To: geir.solberg@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Geir Solberg@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Geir Solberg",
+        "other_type": "person",
+        "other_id": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: chris.stokley@enron.com",
+          "To: chris.stokley@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Chris Stokley@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris Stokley",
+        "other_type": "person",
+        "other_id": "7dc855d2-8b7e-4c15-ac49-5e3e7b75a426",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: caroline.emmert@enron.com",
+          "To: caroline.emmert@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Caroline Emmert@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Caroline Emmert",
+        "other_type": "person",
+        "other_id": "2cf8f479-6d96-42b6-a305-175312eccb9c",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: tim.heizenrader@enron.com",
+          "To: tim.heizenrader@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Tim Heizenrader@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Tim Heizenrader",
+        "other_type": "person",
+        "other_id": "079b32e4-33f0-41e9-b596-66f1aa3d0bd2",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: cooper.richey@enron.com",
+          "To: cooper.richey@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Cooper Richey@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Cooper Richey",
+        "other_type": "person",
+        "other_id": "013250b5-0b97-4474-b545-329dcad17eb4",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: donna.johnson@enron.com",
+          "To: donna.johnson@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Donna Johnson@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Donna Johnson",
+        "other_type": "person",
+        "other_id": "f0cb7562-ae3f-4137-8b89-be19612dcb1e",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: julie.sarnowski@enron.com",
+          "To: julie.sarnowski@enron.com",
+          "However, in the interest of over-communicating rather than under-communicating, please read the following.",
+          "To: Julie Sarnowski@Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Julie Sarnowski",
+        "other_type": "person",
+        "other_id": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I have asked the risk group to put together a list of things they need to know from us each day;"
+        ],
+        "confidence": 0.9,
+        "rel_type": "DECIDED",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 1,
+        "detail": "to ask the risk group to put together a list of things they need to know from us each day",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm asking everyone in West Power Trading to go into \"The Pulse\" and fill out the survey."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "The Pulse",
+        "other_type": "project",
+        "other_id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "mention_count": 1,
+        "detail": "Everyone in West Power Trading should fill out the survey.",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm asking everyone in West Power Trading to go into \"The Pulse\" and fill out the survey."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "West Power Trading",
+        "other_type": "organization",
+        "other_id": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Everyone should have received the e-mail below regarding \"The Pulse.\""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "The Pulse",
+        "other_type": "project",
+        "other_id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "SUBJECT: PRC Process"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "PRC Process",
+        "other_type": "project",
+        "other_id": "e1e7c968-6373-4f47-adde-0796013728a1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "FROM: tim.belden@enron.com",
+          "Forwarded by Christopher F Calger/PDX/ECT",
+          "From: tim.belden@enron.com (Tim Belden)",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "The attached file summarizes FERC's recent California order."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "California",
+        "other_type": "topic",
+        "other_id": "e5c71022-7ced-449e-802e-ea8c5ff0abef",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "let me know when you decide who's responsibility the report will be"
+        ],
+        "confidence": 0.8,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Forward Obligation Report",
+        "other_type": "project",
+        "other_id": "2600042d-b395-4688-9574-2c76ec4b4a73",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mary Hain",
+        "other_type": "person",
+        "other_id": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To: Tim Belden/HOU/ECT@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Rhonda L Denton",
+        "other_type": "person",
+        "other_id": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Tim, I will be writing up the proceedures for the forward obligation report",
+          "thank all of you for allowing me the opportunity to interview"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "TO: tim.belden@enron.com",
+          "Forwarded by Carla Hoffman/PDX/ECT on 10/30/2000 02:23 PM",
+          "To: tim.belden@enron.com, robert.badeer@enron.com, jeff.richter@enron.com, phillip.platter@enron.com, mike.swerzbin@enron.com, diana.scholtes@enron.com, sean.crandall@enron.com, matt.motley@enron.com,",
+          "--- EMAIL BODY ---"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Carla Hoffman",
+        "other_type": "person",
+        "other_id": "bac9dad7-defa-4951-998b-ab052d426030",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "report to Tim Belden"
+        ],
+        "confidence": 1.0,
+        "rel_type": "REPORTS_TO",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      }
+    ]
+  },
+  "target_context": {
+    "entity": {
+      "id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+      "canonical_name": "Kate Symes",
+      "entity_type": "person",
+      "aliases": [
+        "Kate",
+        "Kate Symes/PDX/ECT",
+        "Kate.Symes@enron.com",
+        "PDX/ECT",
+        "kate",
+        "kate.symes",
+        "kate.symes@enron.com",
+        "katesymes",
+        "katesymes@enron.com"
+      ],
+      "mention_count": 155,
+      "degree": 165
+    },
+    "relationships": [
+      {
+        "excerpts": [
+          "To: Kate Symes/PDX/ECT@ECT",
+          "The tie point and Cal PX deals we uploaded this morning did in fact load as Enron Online deals.",
+          "FROM: kate.symes@enron.com (Kate Symes)",
+          "",
+          "FROM: kerri.thompson@enron.com (Kerri Thompson)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 22,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "the West Origination Group has purchased season tickets",
+          "As you may have gathered by now, the West Origination Group has purchased season tickets to see the Portland Trail Blazers on their path to championship glory."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "West Origination Group",
+        "other_type": "organization",
+        "other_id": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "She will make the change from Origination to Trading effective Wednesday, Nov. 8."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Deal Control Position",
+        "other_type": "project",
+        "other_id": "d853161f-4383-4ffd-bf4d-251fdcd78da5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "She will make the change from Origination to Trading effective Wednesday, Nov. 8."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Origination",
+        "other_type": "organization",
+        "other_id": "52715d3b-cbaf-4366-b14f-f0ca89fa7815",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I now work in West Power Trading"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "West Power Trading",
+        "other_type": "organization",
+        "other_id": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Kate Symes, West Origination Clerk, Enron NA"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Enron NA Office of the Chairman",
+        "other_type": "organization",
+        "other_id": "b06ef963-3bcd-4b91-a8a0-4f29ada87526",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "report to Tim Belden"
+        ],
+        "confidence": 1.0,
+        "rel_type": "REPORTS_TO",
+        "other_name": "Tim Belden",
+        "other_type": "person",
+        "other_id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "report to Jeff Richter"
+        ],
+        "confidence": 1.0,
+        "rel_type": "REPORTS_TO",
+        "other_name": "Jeff Richter",
+        "other_type": "person",
+        "other_id": "bc88c919-71a1-405e-af76-f02001fed2b8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I am very much interested in formally applying to work in Deal Control."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal Control Position",
+        "other_type": "project",
+        "other_id": "d853161f-4383-4ffd-bf4d-251fdcd78da5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Mike Driscoll went in and changed this deal to match 458405",
+          "I've put a call in to Mike Driscoll to see which deal is correct"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal number 458405",
+        "other_type": "project",
+        "other_id": "7f97817e-5043-4dd1-8d24-f8c5dca34c2a",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "deal 459788",
+          "deal 459789"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 459788",
+        "other_type": "project",
+        "other_id": "f7759aeb-f31c-442f-8481-e7860ee3e85a",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "deal 460001",
+          "deal 460002"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 460001",
+        "other_type": "project",
+        "other_id": "ce548fda-33f3-4e71-b510-546beb170262",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I changed Deal #457993 to Pinnacle West Corp."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal #457963",
+        "other_type": "project",
+        "other_id": "54562843-2d53-4376-8dd1-8485d55b3533",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "This is an automated function of Deal Blotter",
+          "This is an automated function of Deal Blotter.",
+          "This is an automated function of Deal Blotter."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal Blotter",
+        "other_type": "project",
+        "other_id": "6d9257d2-dbec-44cb-90d5-aaf4fe723564",
+        "mention_count": 3,
+        "detail": "automated function",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "SUBJECT: AmeriFlash"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "Ameriflash",
+        "other_type": "project",
+        "other_id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I've back-dated Deal #456173 to 11/9."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal #456173",
+        "other_type": "project",
+        "other_id": "1b53e24b-adde-49ad-a1dd-6440c2ac166d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Jeff double-checked and Deal 459985 is with PGET.",
+          "deal 459985"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 459985",
+        "other_type": "project",
+        "other_id": "e0c933c6-4837-4d83-bac1-8780d268a74e",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "PX deals",
+        "other_type": "project",
+        "other_id": "90ee4174-500b-4a1a-8c83-d2a44045a341",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Swerzbin just entered the deal - sells to Duke January Mid-C $118 On Peak Deal #458748"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal #457428",
+        "other_type": "project",
+        "other_id": "cc8b9250-1490-4a6e-a524-65ae9f9a1993",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "451976  broker has .0075 - part of sleeve/either 451976 or 451977 should have .0075 fee"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 451976",
+        "other_type": "project",
+        "other_id": "bfda0a1f-76b3-4420-92ad-a8aee89da2d4",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Deal 453938.01"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal 453938.01",
+        "other_type": "project",
+        "other_id": "4cf868e8-b2ce-4722-8139-366c81f9a8ca",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "Deal # 457397",
+        "other_type": "project",
+        "other_id": "f393435f-ce2a-4f78-91bb-70c711d37560",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "453152   broker has .0075 - trader mistake/should be .0075 not .75"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 453125",
+        "other_type": "project",
+        "other_id": "7758d6b8-4951-471b-9c66-40ab08cb7609",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "450710  broker has .0075 - trader mistake/should be .0075"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 450710",
+        "other_type": "project",
+        "other_id": "a1c15618-8452-4663-b686-61653eff10e1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "454511  broker has .0075 - part of sleeve/either 454511 or 454512 should have .0075 fee"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "deal 454511",
+        "other_type": "project",
+        "other_id": "a954cd83-f3f9-4ff2-8a05-de35acf92d2a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If the source of the error is you, me, the broker, or the computer gods, it will be noted in the error report and given to Risk Management to assist them in their daily calculation."
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "Risk",
+        "other_type": "organization",
+        "other_id": "ccbd0221-8600-4091-b4c8-17a39541b5cf",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "As you may have gathered by now, the West Origination Group has purchased season tickets..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "West Origination Group",
+        "other_type": "organization",
+        "other_id": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Please join me in congratulating Kate on her new position at the Deal Control desk."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Deal Control Position",
+        "other_type": "project",
+        "other_id": "d853161f-4383-4ffd-bf4d-251fdcd78da5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Deal #458391 does NOT need to be confirmed per Paul Choi"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Deal #458391",
+        "other_type": "project",
+        "other_id": "a16cd744-a8ef-4fa2-9eb4-511e47b21f80",
+        "mention_count": 1,
+        "detail": "does NOT need to be confirmed",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "all deals not using NP15, SP15, or ZP26 should default to Firm Energy"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Firm Energy",
+        "other_type": "topic",
+        "other_id": "bfdf1dd1-91ff-4e57-b8a8-4708c562d1c4",
+        "mention_count": 1,
+        "detail": "default to Firm Energy",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Both deals were 50 MW"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "megawatts",
+        "other_type": "topic",
+        "other_id": "64002ea1-e3b2-45db-af82-b35bde447e42",
+        "mention_count": 1,
+        "detail": "50 MW",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Deal #457963 DOES need to be confirmed"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Deal #457963",
+        "other_type": "project",
+        "other_id": "54562843-2d53-4376-8dd1-8485d55b3533",
+        "mention_count": 1,
+        "detail": "does need to be confirmed",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I talked to Will Smith, who said he thought he'd heard this complaint before",
+          "I have called Will Smith to let him know it's malfunctioning",
+          "Thanks so much for your help on this.",
+          "I've been in contact with Will Smith"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Will Smith",
+        "other_type": "person",
+        "other_id": "230c72ce-e27e-4247-9558-677872447b59",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: jody.blackburn@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jody Blackburn",
+        "other_type": "person",
+        "other_id": "37ee6aa7-161c-42e0-9631-c0399fd5ddaa",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Vickie Aldous went above and beyond the call of duty"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Vickie Aldous",
+        "other_type": "person",
+        "other_id": "89736d7a-b3a1-4b99-8ef3-2f5900a712e2",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mike Swerzbin",
+        "other_type": "person",
+        "other_id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you have any other questions, please let Mollie or myself know"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jake Thomas",
+        "other_type": "person",
+        "other_id": "30ed8780-ff7a-453b-8873-1023d38dee6c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "FROM: kate.symes@enron.com (Kate Symes)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Steve Thome",
+        "other_type": "person",
+        "other_id": "eaf96fef-00a8-4063-99df-2ca5cfbbe84d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I notified Jim Fell and Terrell Gault of the delay..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jim Fell",
+        "other_type": "person",
+        "other_id": "dd5090e3-268b-4fd4-a1bf-0c7af7a7af93",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: portland.desk@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Portland Desk",
+        "other_type": "organization",
+        "other_id": "979dcfca-2625-4309-8946-fe849eaeedca",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I've put a call in to Mike Driscoll"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mike Driscoll",
+        "other_type": "person",
+        "other_id": "06317849-ade1-485e-8e77-43d62b4ab6e8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I notified Jim Fell and Terrell Gault of the delay..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Terrell Gault",
+        "other_type": "person",
+        "other_id": "55f47d95-fb8c-4650-aaa0-f2149a91de9c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I have also spoken with Mollie Gustafson and Chris Calger, who have given me their support in pursuing another opportunity within the company."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris",
+        "other_type": "person",
+        "other_id": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: lester.rawson@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Lester Rawson",
+        "other_type": "person",
+        "other_id": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: diana.scholtes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Diana Scholtes",
+        "other_type": "person",
+        "other_id": "f9901b68-8a49-4536-9101-67d7d1d36272",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: phillip.platter@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Phillip Platter",
+        "other_type": "person",
+        "other_id": "bf8c2a1e-d14d-4ef9-8b47-1bb6ea71bc6c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I have spoken with Jeff Richter, Val Sabo, and Carla Hoffman about the requirements and responsibilities of the job."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Val Sabo",
+        "other_type": "person",
+        "other_id": "8cf55f6a-1bb4-4d8f-8524-3f55e347b2f7",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I took a message from Pat Brown at Avista this morning."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Pat Brown",
+        "other_type": "person",
+        "other_id": "acaecbd9-fab1-4b9a-9e2c-1f0732bfdd5d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Let me know if this is what you wanted."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jonalan Page",
+        "other_type": "person",
+        "other_id": "291db881-f9a9-4600-91d0-0f0153350dc7",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: chris.mallory@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris Mallory",
+        "other_type": "person",
+        "other_id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "You'll be staying at the beautiful Phoenix Inn in sunny Eugene this Wednesday evening."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Todd Perry",
+        "other_type": "person",
+        "other_id": "ba90cf16-c40f-4e00-8e38-ad293ad116cb",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: mark.fischer@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Fischer",
+        "other_type": "person",
+        "other_id": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: sean.crandall@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Sean Crandall",
+        "other_type": "person",
+        "other_id": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: matt.motley@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Matt Motley",
+        "other_type": "person",
+        "other_id": "3b2913a1-9894-4ede-ba06-cebf182c52d8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "To: nancy.f.white@betzdearborn.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Nancy White",
+        "other_type": "person",
+        "other_id": "ab0c38ba-ce64-4aa2-83d4-f8e813bb337f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: angela.cadena@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Angela",
+        "other_type": "person",
+        "other_id": "d971383f-dfce-45d9-a19d-3f870e911321",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "The call-in information is as follows:",
+          "Should you have any questions, don't hesitate to call me at 503-464-3748."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Dale Rasmussen",
+        "other_type": "person",
+        "other_id": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Have fun with these!",
+          "I think I found what you're looking for:"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Dave Fuller",
+        "other_type": "person",
+        "other_id": "0bd86d93-2338-4cd3-9883-fdbecca2a0a5",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I just thought I'd keep you informed of the latest episode...",
+          "Just thought you should know."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Winston Goodbody",
+        "other_type": "person",
+        "other_id": "ca24992d-bfc6-41bc-accd-9865d7adb799",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Have a safe trip back home."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Chris Helzer",
+        "other_type": "person",
+        "other_id": "8574782a-f53f-435f-82c4-7c12a3bd6f9a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "",
+          "Jessica and Mollie have both checked their e-mail"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jessica Burry",
+        "other_type": "person",
+        "other_id": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you have any questions or would like to reserve tickets, please contact Blazer Command Central by e-mail, telephone, or in person.",
+          "If you have any questions or would like to reserve tickets, contact Blazer Command Central by e-mail, telephone, or in person."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Blazer Command Central",
+        "other_type": "organization",
+        "other_id": "11b21789-9e98-47e4-93f5-fbcf3d5b933e",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Hi Kate!"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kimberly Hundl",
+        "other_type": "person",
+        "other_id": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Let me know when you get a chance so we can send this off and get you some money."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Terry Donovan",
+        "other_type": "person",
+        "other_id": "5ff87661-1de4-4c28-937d-2adc3bf77978",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Tom Alonso just returned my call",
+          "TO: tom.alonso@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Tom Alonso",
+        "other_type": "person",
+        "other_id": "071f58e9-4ff8-45b4-8dda-11d046ce6bdc",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I've been working with Laura Wente to locate these documents for a couple days, and I think I've found what you need.",
+          "The call-in information is as follows:",
+          "Let's go over it whenever you get a chance.",
+          "Thanks, Laura.",
+          "TO: laura.wente@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Laura Wente",
+        "other_type": "person",
+        "other_id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "mention_count": 8,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "",
+          "Thank you all for being so patient with me while I am under Carla's wise tutelage.",
+          "I have spoken with Jeff Richter, Val Sabo, and Carla Hoffman about the requirements and responsibilities of the job.",
+          "To: Carla Hoffman/PDX/ECT@ECT, Kate Symes/PDX/ECT@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Carla Hoffman",
+        "other_type": "person",
+        "other_id": "bac9dad7-defa-4951-998b-ab052d426030",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "",
+          "Thanks for the heads up.",
+          "To: Kate Symes/PDX/ECT@ECT",
+          "Would you like me to go ahead and make these changes? Please let me know.",
+          "To: Kate Symes/PDX/ECT@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kerri Thompson",
+        "other_type": "person",
+        "other_id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "mention_count": 14,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "This is not an urgent matter - just respond whenever you have time.",
+          "TO: amy.fitzpatrick@enron.com",
+          "I called around and, lo and behold, I found Steve's wife!",
+          "I'd like to talk to you about the details of my offer letter if you have a chance today.",
+          "Please let me know whenever you get a free moment."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Amy Fitzpatrick",
+        "other_type": "person",
+        "other_id": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "mention_count": 7,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Re: Holiday Party Mailing List",
+          "Thanks for noticing, though!",
+          "Looks great, Anna."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Anna Mehrer",
+        "other_type": "person",
+        "other_id": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Have fun with this! (To: jim.buerkle@enron.com) ",
+          "Re: Analyst Reports",
+          "I don't know if this is at all what you were looking for."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jim Buerkle",
+        "other_type": "person",
+        "other_id": "991b8684-c634-41f9-88e8-61534f54bd40",
+        "mention_count": 3,
+        "detail": " ",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "",
+          "What better time to start thinking about the winter holidays than on Halloween?!",
+          "Let me know if you think anything needs to be added.",
+          "I have also spoken with Mollie Gustafson and Chris Calger, who have given me their support in pursuing another opportunity within the company.",
+          "I know I already discussed time off at Christmas with you"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mollie Gustafson",
+        "other_type": "person",
+        "other_id": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "mention_count": 9,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I've been working with Laura Wente to locate these documents for a couple days, and I think I've found what you need.",
+          "If you could call or e-mail with your fax number, I'll send what I have over to you and expedite the process.",
+          "Please let me know if I can be of further assistance."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "rkbooth",
+        "other_type": "person",
+        "other_id": "89436ea7-b46d-4c61-9549-2e75255874dc",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: jeff.richter@enron.com",
+          "TO: jeff.richter@enron.com",
+          "I have spoken with Jeff Richter, Val Sabo, and Carla Hoffman about the requirements and responsibilities of the job.",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jeff Richter",
+        "other_type": "person",
+        "other_id": "bc88c919-71a1-405e-af76-f02001fed2b8",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "You're right, this was an Altra deal that was entered as Prebon.",
+          "To: Carla Hoffman/PDX/ECT@ECT, Kate Symes/PDX/ECT@ECT",
+          "I just spoke with Diana about this deal",
+          "Looks like alot of the deals are no confirm or counterparty to send, just to make sure we have correct in system",
+          "Thanks, Kate"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Stephanie Piwetz",
+        "other_type": "person",
+        "other_id": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "mention_count": 8,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I am missing alot of deals for Mike Swerzbinh and Sean Crandall.",
+          "",
+          "Thank you, Evelyn.",
+          "To: Kate Symes/PDX/ECT@ECT",
+          "To: Carla Hoffman/PDX/ECT@ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Evelyn Metoyer",
+        "other_type": "person",
+        "other_id": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "mention_count": 9,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "cc: Kimberly Hundl/Corp/Enron@Enron",
+          "Sorry Sharon",
+          "Thanks, Kate"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Sharen Cason",
+        "other_type": "person",
+        "other_id": "0c531368-9509-47b9-b232-51006f22c822",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Sat 21",
+        "other_type": "meeting",
+        "other_id": "c40bacb0-3d47-4109-a193-e29e67cf46c4",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Forwarded by Kate Symes/PDX/ECT on 10/11/2000 08:37 AM"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ATTENDED",
+        "other_name": "meeting",
+        "other_type": "meeting",
+        "other_id": "f833ff74-80cb-4a8a-9fca-7ac618bb65b6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "You're booked in Mt. Bachelor from 9:30 to 11 a.m. on Tuesday."
+        ],
+        "confidence": 1.0,
+        "rel_type": "ATTENDED",
+        "other_name": "Tuesday Morning Meeting",
+        "other_type": "meeting",
+        "other_id": "06de3a5f-b370-4da0-8289-73280de5af74",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Sun 15",
+        "other_type": "meeting",
+        "other_id": "b3fdfd68-8fd0-40fc-8fa0-339206baa0b0",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "you are booked in the Mt. Bachelor conference room"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ATTENDED",
+        "other_name": "Mt. Bachelor",
+        "other_type": "meeting",
+        "other_id": "2c65be05-19e4-451f-8a6e-6b818fe8ca8d",
+        "mention_count": 1,
+        "detail": "Monday morning staff meetings",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "set up a conference call-in number for this Thursday afternoon 4-5:30 pm Portland time for 4 different ports."
+        ],
+        "confidence": 0.8,
+        "rel_type": "ATTENDED",
+        "other_name": "Conference Call",
+        "other_type": "meeting",
+        "other_id": "6dba9bde-76e7-44ef-8f16-de5e03cf18d9",
+        "mention_count": 1,
+        "detail": "Thursday afternoon 4-5:30 pm Portland time",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Thu 12",
+        "other_type": "meeting",
+        "other_id": "809aec79-38e5-4853-8752-ae2dee7ef61e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Tue 31",
+        "other_type": "meeting",
+        "other_id": "f600c5ea-08bf-4487-b9f9-3097b981e156",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Thu 19",
+        "other_type": "meeting",
+        "other_id": "ac6ab831-b265-479e-9b95-3e24f7c42644",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Tue 17",
+        "other_type": "meeting",
+        "other_id": "ccb2ce00-b101-477e-987b-2a8dba4f2afe",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Fri 13",
+        "other_type": "meeting",
+        "other_id": "c1e5b218-8d25-439e-8e25-949083278627",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Thu 26",
+        "other_type": "meeting",
+        "other_id": "f6aa9caf-051a-46f3-a59d-f10610db0e5f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "ATTENDED",
+        "other_name": "Fri 27",
+        "other_type": "meeting",
+        "other_id": "69a184c6-cd7a-4056-a160-9bf79dfed4fd",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "give copies of the signed letter to Jody Blackburn"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Jody Blackburn",
+        "other_type": "person",
+        "other_id": "37ee6aa7-161c-42e0-9631-c0399fd5ddaa",
+        "mention_count": 1,
+        "detail": "copies of signed letter",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I changed Deal #457993 to Pinnacle West Corp. and reminded Diana AGAIN of the name change."
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Diana Scholtes",
+        "other_type": "person",
+        "other_id": "f9901b68-8a49-4536-9101-67d7d1d36272",
+        "mention_count": 1,
+        "detail": "reminded Diana AGAIN of the name change",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "give copies of the signed letter to Don Hammond"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Don Hammond",
+        "other_type": "person",
+        "other_id": "d4b67f9a-7237-4c21-b347-e4c68e1bbe95",
+        "mention_count": 1,
+        "detail": "copies of signed letter",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "give copies of the signed letter to Bill Williams"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Bill Williams III",
+        "other_type": "person",
+        "other_id": "003d480e-1bc2-42f1-9a6d-9e4370e84b7a",
+        "mention_count": 1,
+        "detail": "copies of signed letter",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'll change this as soon as Risk is done calcing"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Risk",
+        "other_type": "organization",
+        "other_id": "ccbd0221-8600-4091-b4c8-17a39541b5cf",
+        "mention_count": 1,
+        "detail": "calculation",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Can you please print the attached cover letter (for overnight shipment to Bob Booth)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Bob Booth",
+        "other_type": "person",
+        "other_id": "cf515cb2-5d1b-45f7-a230-497a5d524a40",
+        "mention_count": 1,
+        "detail": "overnight shipment",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Please e-mail the call-in number to me (also leave me voice mail please... as traveling I can't always access e-mail quickly), Dale Rasmussen, moconnell@stoel.com and ktakahashi@stoel.com."
+        ],
+        "confidence": 0.8,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Dale Rasmussen",
+        "other_type": "person",
+        "other_id": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "mention_count": 1,
+        "detail": "call-in number",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If it is acceptable, please sign and fax a copy to me at 503-464-3740."
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Laura Wente",
+        "other_type": "person",
+        "other_id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "mention_count": 1,
+        "detail": "fax a copy to me at 503-464-3740",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you could let me know the other deal numbers that need to be changed"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Stephanie Piwetz",
+        "other_type": "person",
+        "other_id": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "mention_count": 1,
+        "detail": "change deal numbers",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "give copies of the signed letter to Ed Clark"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Ed Clark",
+        "other_type": "person",
+        "other_id": "91d31a97-56d6-4dea-b5db-0b707a60e44b",
+        "mention_count": 1,
+        "detail": "copies of signed letter",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "It is with Natsource - part of a sleeve that Mike forgot to write down."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "459799",
+        "other_type": "project",
+        "other_id": "7806b387-6fe9-457c-892f-3bc8f6fd51ae",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Catholic"
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Catholic",
+        "other_type": "topic",
+        "other_id": "e55f0f33-1811-4fff-ad88-f497d751c4c1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Re: AmeriFlash"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Ameriflash",
+        "other_type": "project",
+        "other_id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm dragging myself out of this office",
+          "Oh, and my Christmas plans still stand - gone from Dec. 22 to Jan. 2"
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "missing 2 deals"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "natsource check out",
+        "other_type": "topic",
+        "other_id": "a168bc49-951c-4dbd-9e3d-5769df7e5940",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Fwd: More words of wisdom...",
+          "So you should be able to cut and paste this.",
+          "TO: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Jeffrey Oh",
+        "other_type": "person",
+        "other_id": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "A request (below) has been made to fix a deal"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kim Ward",
+        "other_type": "person",
+        "other_id": "760933d6-5b8f-4ebc-b6b8-b92d466013fa",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Hello, For those of you who are not already familiar with Enron Broadband's arrangement with US Suites..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Anna Mehrer",
+        "other_type": "person",
+        "other_id": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I was told that I will need an employee number in order to enter the hours I've worked this week."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Amy Fitzpatrick",
+        "other_type": "person",
+        "other_id": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Maybe when you get your cell phone you can accessorize with one of these."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mary Jane Symes",
+        "other_type": "person",
+        "other_id": "9bc25205-2d26-423a-8bf1-8573b5c4efba",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I left a voice mail for you earlier today."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "rkbooth",
+        "other_type": "person",
+        "other_id": "89436ea7-b46d-4c61-9549-2e75255874dc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Kate - Here is a list of the games in November I am able to offer your"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Ryan Langan",
+        "other_type": "person",
+        "other_id": "d5e02c3c-3390-49c5-ad84-1052cccb91bf",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "TO: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kristian J Lande",
+        "other_type": "person",
+        "other_id": "69db91a5-d09c-4e67-85d3-0ab2e18bfcc6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Thanks, Steve"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Stephen Thome",
+        "other_type": "person",
+        "other_id": "76adb815-9307-497b-b745-0a04351ee696",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Hi Kate!",
+          "Thanks!  Glad to have you with us Kate!!!"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kimberly Hundl",
+        "other_type": "person",
+        "other_id": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "TO: kate.symes@enron.com",
+          "To: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Melissa Ann Murphy",
+        "other_type": "person",
+        "other_id": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "i was able locate the second tkt in question"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "SHERRI SORRELS",
+        "other_type": "person",
+        "other_id": "798f06a2-7284-4380-83c9-c93ea5b09301",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "If you would you, please start to draft a letter to the vendors for the solicitation of the raffle gifts?",
+          "Thanks for your help and congratulations, Kate!"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mollie Gustafson",
+        "other_type": "person",
+        "other_id": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "can you check on the following fees:",
+          "TO: kate.symes@enron.com",
+          "TO: kate.symes@enron.com",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kerri Thompson",
+        "other_type": "person",
+        "other_id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "mention_count": 18,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Kate- I have received a Altra Broker Confirmation Letter, but I have no trade in system",
+          "Let me know if there's anything else",
+          "If you could let me know the other deal numbers that need to be changed",
+          "TO: kate.symes@enron.com",
+          "This is an automated function of Deal Blotter."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Stephanie Piwetz",
+        "other_type": "person",
+        "other_id": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "mention_count": 11,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Please change the names and let the traders know...",
+          "Can you check with Chris Mallory because when I checked out with Prebon we confirmed the megawatts as 25mw on these deals.",
+          "",
+          "Please let me know if these don't come through shortly.",
+          "Kate Symes"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Evelyn Metoyer",
+        "other_type": "person",
+        "other_id": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "mention_count": 16,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: jskoog_vitoltvl@yahoo.com (JANET SKOOG <jskoog_vitoltvl@yahoo.com>)",
+          "FROM: jskoog_vitoltvl@yahoo.com (JANET SKOOG <jskoog_vitoltvl@yahoo.com>)\nTO: kate.symes@enron.com",
+          "FROM: jskoog_vitoltvl@yahoo.com (JANET SKOOG <jskoog_vitoltvl@yahoo.com>)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Janet Skoog",
+        "other_type": "person",
+        "other_id": "2e56cc7e-d7b9-40b0-b5a1-f5c0ee852dae",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To: kate.symes@enron.com",
+          "Let me know.",
+          "Can you let me know when you change these",
+          "TO: kate.symes@enron.com",
+          "TO: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Sharen Cason",
+        "other_type": "person",
+        "other_id": "0c531368-9509-47b9-b232-51006f22c822",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Hi Mollie and Kate,",
+          "Hi Kate,",
+          "we will fax you a copy for your review.",
+          "To: Laura Wente/HOU/ECT@ECT",
+          "Can you please set up a conference call-in number for this Thursday afternoon 4-5:30 pm Portland time for 4 different ports."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Laura Wente",
+        "other_type": "person",
+        "other_id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "mention_count": 7,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "If you are unable to pass on the information to your employees via email, let me know"
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "Ryan Langan",
+        "other_type": "person",
+        "other_id": "d5e02c3c-3390-49c5-ad84-1052cccb91bf",
+        "mention_count": 1,
+        "detail": "pass on the information to your employees via email",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Santana concert last night",
+          "What an awesome concert! I must say I'm thoroughly enjoying city life again."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Santana",
+        "other_type": "topic",
+        "other_id": "124d32c1-fe1b-474a-8c47-39c2f6050f29",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mike is checking on the others.",
+          "Mike is checking on the others."
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "deal 460001",
+        "other_type": "project",
+        "other_id": "ce548fda-33f3-4e71-b510-546beb170262",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mike is checking on the others.",
+          "Mike is checking on the others."
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "deal 459788",
+        "other_type": "project",
+        "other_id": "f7759aeb-f31c-442f-8481-e7860ee3e85a",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "an extra ticket to see Santana at the Rose Garden"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Rose Garden",
+        "other_type": "organization",
+        "other_id": "84817a54-c2f5-4b7d-9027-3af91bc88d50",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Bloomberg shows correctly"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Bloomberg",
+        "other_type": "organization",
+        "other_id": "cf327030-a488-4e5e-ae0b-cd674403d857",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "we'll be donating the proceeds from our holiday party/auction to the Court-Appointed Special Advocates (CASA)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Court-Appointed Special Advocates",
+        "other_type": "organization",
+        "other_id": "037ea505-6570-4f98-80a1-9ac45f30fec1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Would you like me to go ahead and make these changes?",
+          "Would you like me to go ahead and make these changes?"
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Broker Fees",
+        "other_type": "topic",
+        "other_id": "c12559cc-efde-44aa-8eea-78548c446fbd",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Deal Control position"
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Deal Control Position",
+        "other_type": "project",
+        "other_id": "d853161f-4383-4ffd-bf4d-251fdcd78da5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I just had a surprise visit from some Ashland friends"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Ashland",
+        "other_type": "organization",
+        "other_id": "754bb70e-41fe-4d85-890f-641d9a922fd1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Delta Airlines, PDX-Salt Lake City-Spokane-PDX"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Delta Airlines",
+        "other_type": "organization",
+        "other_id": "270946fd-1d3b-403a-8b9f-d332b91a94b6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "In reviewing Jeff Shields' expenses"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Jeff Shields",
+        "other_type": "person",
+        "other_id": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I'm sorry we didn't connect while you were in Portland."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Portland",
+        "other_type": "topic",
+        "other_id": "8146f62e-c90e-4c5f-96c7-1a2297064201",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Last year the proceeds went to Emanuel Children's Hospital"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Emanuel Children's Hospital",
+        "other_type": "organization",
+        "other_id": "fb7cce33-386f-4fe0-a4f8-533c9fb87f2c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Subject: Deal 460862.01"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Deal 460862.01",
+        "other_type": "project",
+        "other_id": "4d3efe61-a2c5-474a-ae15-641f14d05b56",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Alaska Airlines, PDX-SeaTac-Helena-SeaTac-PDX"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Alaska Airlines",
+        "other_type": "organization",
+        "other_id": "800aa941-d922-4551-8091-e20ad95c296d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "copies of the EIS, which were supposed to be finished at noon."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "EIS",
+        "other_type": "project",
+        "other_id": "393b67e3-a8ee-4c95-9388-7efb671da149",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "and one way or another I'll get the documents out to Terrell Gault and Jim Fell tomorrow."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Jim Fell",
+        "other_type": "person",
+        "other_id": "dd5090e3-268b-4fd4-a1bf-0c7af7a7af93",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "and one way or another I'll get the documents out to Terrell Gault tomorrow."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Terrell Gault",
+        "other_type": "person",
+        "other_id": "55f47d95-fb8c-4650-aaa0-f2149a91de9c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "The BPA Business Plan has not yet arrived."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "BPA Business Plan",
+        "other_type": "project",
+        "other_id": "0cd883dc-f085-44b6-a7a2-5914a44b8a1f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I have re-scheduled your conference call for Thursday, Oct. 20, from 10 to 11:30 a.m. Pacific Daylight Time."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Thursday Conference Call",
+        "other_type": "meeting",
+        "other_id": "f9f8da68-c661-4f1a-bf25-f459f9c69e9e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I erased the EOL transaction numbers on the first four, but I believe they were going in a sequence beginning at 627."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "627",
+        "other_type": "topic",
+        "other_id": "3099b433-11ca-4997-b8df-7318d998782a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I erased the EOL transaction numbers on the first four, but I believe they were going in a sequence beginning at 627."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "sequence",
+        "other_type": "topic",
+        "other_id": "adcbda5f-234d-47b7-9bea-9a0b3a1c74bf",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I erased the EOL transaction numbers on the first four, but I believe they were going in a sequence beginning at 627."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "transaction numbers",
+        "other_type": "topic",
+        "other_id": "c1e7863e-b6f6-4207-929e-5be00fc7378e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Resource Contingency Program - Hermiston/Chehalis Power Projects"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Hermiston/Chehalis Power Projects",
+        "other_type": "project",
+        "other_id": "53f0e05e-006c-4e6b-82c1-dd735aca8568",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Here are all of the deal numbers that correspond with today's tie point, Cal PX, and Cal Imbalance deals."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "deal numbers",
+        "other_type": "topic",
+        "other_id": "f6d9d1ab-cbeb-4bcb-bfeb-2ae667d5c669",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Here are all of the deal numbers that correspond with today's tie point, Cal PX, and Cal Imbalance deals."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Cal Imbalance",
+        "other_type": "project",
+        "other_id": "c40048bf-5e70-4d99-b3ee-b688b2f4bdc6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Here are all of the deal numbers that correspond with today's tie point, Cal PX, and Cal Imbalance deals."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Cal PX Bridge",
+        "other_type": "project",
+        "other_id": "ead6a821-26a1-407b-9a7a-1e299012ba53",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "go to www.tis.eh.doe.gov/nepa/ and click the heading DOE NEPA Analyses."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "www.tis.eh.doe.gov/nepa/",
+        "other_type": "topic",
+        "other_id": "5cd363f6-e0dd-4d02-80b2-162fd3c6a5a1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I'll swing by Starbucks in the morning and pick up a variety of bagels and cream cheese for six people."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Starbucks",
+        "other_type": "organization",
+        "other_id": "42aefd4c-f31d-4306-a4d7-5b3c04f5c91d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "go to www.tis.eh.doe.gov/nepa/ and click the heading DOE NEPA Analyses."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "DOE NEPA Analyses",
+        "other_type": "topic",
+        "other_id": "0bb55c93-5e99-4fc4-a34d-cf67f4f6d23a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Subject: apb checkout"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "APB checkout",
+        "other_type": "topic",
+        "other_id": "28a1fc77-9cb9-4f96-b568-05b4b11183eb",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Subject: apb checkout"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "APB",
+        "other_type": "project",
+        "other_id": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Deal 456717 has been changed to reflect Pinnacle West Capital Corp, and the traders have been reminded of the name change."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Pinnacle West Capital Corp",
+        "other_type": "organization",
+        "other_id": "f7b7f896-e8cd-413f-aaf1-db7db71c9b9e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Chris Mallory said he entered the index deal selling to Calpine at about 2:15 PST today."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Chris Mallory",
+        "other_type": "person",
+        "other_id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Deal 456717 has been changed to reflect Pinnacle West Capital Corp, and the traders have been reminded of the name change."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Deal 456717",
+        "other_type": "project",
+        "other_id": "41ae197e-07e9-4cd1-b6dd-77c62498aace",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "the time management function on eHRonline won't allow me to log in"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "eHRonline",
+        "other_type": "project",
+        "other_id": "903df4a2-d9e2-4e9c-b146-1fa866be42e8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "You're booked in Mt. Bachelor from 9:30 to 11 a.m. on Tuesday.",
+          "you are booked in the Mt. Bachelor conference room"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Mt. Bachelor",
+        "other_type": "meeting",
+        "other_id": "2c65be05-19e4-451f-8a6e-6b818fe8ca8d",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I'm using the user ID and password you gave me",
+          "To: kate.symes@enron.com",
+          "Kate Symes/PDX/ECT@ECT",
+          "matching dollars from Enron Corp."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I'm dragging myself out of this office",
+          "Oh, and my Christmas plans still stand - gone from Dec. 22 to Jan. 2"
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      }
+    ]
+  }
+}

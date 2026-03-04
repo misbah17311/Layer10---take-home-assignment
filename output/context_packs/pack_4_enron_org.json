@@ -1,0 +1,3967 @@
+{
+  "query": "Entity+Neighbourhood: Enron",
+  "entity": {
+    "entity": {
+      "id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+      "canonical_name": "Enron",
+      "entity_type": "organization",
+      "aliases": [
+        "Corp",
+        "Corporate",
+        "ECT",
+        "EGEP Services, Inc.",
+        "ENA",
+        "ENRON",
+        "Enpower",
+        "Enron Announcements",
+        "Enron Announcements@ENRON",
+        "Enron Broadband",
+        "Enron Broadband Services",
+        "Enron Broadband Services, Inc.",
+        "Enron Capital & Trade Resources Corp.",
+        "Enron Corp",
+        "Enron Corp.",
+        "Enron Corporation",
+        "Enron Energy Services Operations, Inc.",
+        "Enron Engineering and Construction Company",
+        "Enron Net Works, LLC",
+        "Enron North America",
+        "Enron North America Corp.",
+        "Enron Property Services Company",
+        "Enron Transportation Services Company",
+        "Enron.com",
+        "PDX",
+        "Portland General Electric Company",
+        "clint.dean@enron.com",
+        "corp",
+        "enpower",
+        "enron",
+        "enron.com",
+        "portcalc"
+      ],
+      "mention_count": 490,
+      "degree": 161
+    },
+    "relationships": [
+      {
+        "excerpts": [
+          "Since the contract's inception at the beginning of the year, Enron has traded=20 a total of 5.3 million tons against the SECA contract, of which 3.8 million=20 tons has been traded via EnronOnline sin"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_ON",
+        "other_name": "EnronOnline",
+        "other_type": "project",
+        "other_id": "69e49f77-2224-4dc7-b146-6d1d2ea8296f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "To make enrollment even more convenient for you, this year's deferral program information is available on eHRonline."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "eHRonline",
+        "other_type": "project",
+        "other_id": "903df4a2-d9e2-4e9c-b146-1fa866be42e8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "We are forming Enron Wholesale Services (EWS) which will consolidate our global wholesale businesses."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Enron Wholesale Services",
+        "other_type": "organization",
+        "other_id": "a1d1fe09-467e-44e8-a85c-ed465832707e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "",
+          "Enron North America each contributed $10 million in venture capital.",
+          "Enron North America Corp.",
+          "corporate is working on your vacation balance adjustment",
+          "Attached is a copy of a letter which we are sending to our Corporate, Enron= =20 North America Corp., Enron Energy Services Operations, Inc., Enron Broadban= d=20 Services, Inc., Enron Net Works, LLC,"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 14,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "The foundation of Enron's business is competition."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Halloween Contest",
+        "other_type": "project",
+        "other_id": "a031b324-f266-4f98-89ef-ee71bdf9384f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Enron North America each contributed $10 million in venture capital"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Ameriflash",
+        "other_type": "project",
+        "other_id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Any exception to this policy requires approval by Mark Haedicke or= =20 Richard Sanders."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Richard Sanders",
+        "other_type": "person",
+        "other_id": "31206aec-d5a1-43a3-844c-845ea8380bbb",
+        "mention_count": 1,
+        "detail": "approval by Mark Haedicke or Richard Sanders",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Any exception to this policy requires approval by Mark Haedicke or= =20 Richard Sanders."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Mark Haedicke",
+        "other_type": "person",
+        "other_id": "1ed80698-87d3-412d-8b44-428538192164",
+        "mention_count": 1,
+        "detail": "approval by Mark Haedicke or Richard Sanders",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Per Sean Crandall starting tomorrow and forward we will not allow the ISO to cut our schedules UNTIL all the OTHER nonfirm schedules are cut FIRST."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "NOB",
+        "other_type": "topic",
+        "other_id": "75d5c549-777d-419a-a0db-827e0a37755a",
+        "mention_count": 1,
+        "detail": "not to allow ISO to cut schedules until all nonfirm schedules are cut first",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Deferral program enrollment begins Wednesday, November 15, 2000."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Deferral Enrollment 2001",
+        "other_type": "project",
+        "other_id": "c6e775e2-04ed-49a6-ad88-4e85f5c1b2aa",
+        "mention_count": 1,
+        "detail": "enrollment begins on November 15, 2000",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Due to a very heavy, last minute influx of employees trying to make elections and/or changes to their 2001 benefits, the open enrollment 2001 deadline has been extended until 5pm Central Time on Frida",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 2,
+        "detail": "extend open enrollment 2001 deadline",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Mark Frevert and Mark Haedicke"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Haedicke",
+        "other_type": "person",
+        "other_id": "1ed80698-87d3-412d-8b44-428538192164",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you have any problems accessing the system or have any questions regarding the Performance Management Process, please call the HR Helpdesk at x3.4040 option 4 or email pep.enquiries@enron.com."
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "HR Helpdesk",
+        "other_type": "organization",
+        "other_id": "36dd6961-63cb-4e90-b9c7-92662c3a27ee",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: eligible.employees@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "eligible.employees@enron.com",
+        "other_type": "topic",
+        "other_id": "cc529eb9-6afd-4c99-882b-1d45b196d124",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you have ideas or suggestions please forward them to Michelle Vitrella o= r=20"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Kathie Grabstald",
+        "other_type": "person",
+        "other_id": "e3fb1ded-3536-47c2-ae21-1d7bee825a72",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "TO: all.states@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "all.states@enron.com",
+        "other_type": "organization",
+        "other_id": "65667269-d121-40e1-bd50-9ac4efbbb1ff",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "If you have ideas or suggestions please forward them to Michelle Vitrella o= r=20"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Michelle Vitrella",
+        "other_type": "person",
+        "other_id": "0258c836-288d-41fe-a0b7-e15771800b74",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Mark Frevert and Mark Haedicke"
+        ],
+        "confidence": 1.0,
+        "rel_type": "COMMUNICATED_WITH",
+        "other_name": "Mark Frevert",
+        "other_type": "person",
+        "other_id": "219fb1be-254e-4f63-a42d-7e0f389b826d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Mark.Guzman@enron.com",
+          "mark.guzman@enron.com",
+          "Enron",
+          "I felt bad leaving but my work had been so cool to give me two weeks of paid "
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "He has accepted a position with Portland General Electric, and we wish him well in all his future endeavors."
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Debra Davidson",
+        "other_type": "person",
+        "other_id": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "My goal is not to point a finger, but rather to highlight the fact that we need to be thinking about the risk group any time we change something in Enpower."
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Communicating with Risk",
+        "other_type": "meeting",
+        "other_id": "3af9adb6-eea0-489b-ae74-b173e546edc8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Elk Hunt",
+        "other_type": "project",
+        "other_id": "ea31de87-d462-4a1c-920f-4d33d66e9565",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "The Golden Telephone",
+        "other_type": "topic",
+        "other_id": "ae04a6a3-97c1-4f6b-9392-1c1c10a95c33",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Let Aunt Janelle, Markie, and whoever else wants one that they can get it online."
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "entertainment books",
+        "other_type": "topic",
+        "other_id": "56bf316c-024d-439d-a628-f5f9ef330177",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Kerri Thompson@ENRON",
+          "Kate Symes/PDX/ECT@ECT"
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "APB checkout",
+        "other_type": "topic",
+        "other_id": "28a1fc77-9cb9-4f96-b568-05b4b11183eb",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Enron's totally impartial judges"
+        ],
+        "confidence": 0.8,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Jeff Shields",
+        "other_type": "person",
+        "other_id": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Please click on the link for details regarding Open Enrollment 2001."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Open Enrollment 2001",
+        "other_type": "project",
+        "other_id": "68fd700f-43d0-4299-be38-613ea103e691",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Enron Capital & Trade Resources Corp."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "DJ Puget Sound Asks FERC For Price Caps In Western Region",
+        "other_type": "meeting",
+        "other_id": "8ec6414c-381e-45e3-bb36-7a530bf024dc",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "enpower has $95"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "deal 452697",
+        "other_type": "project",
+        "other_id": "a26a7b3b-4b79-4513-af94-a60d607863a1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Missing the following Index deal per Prebon:"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Chris Mallory",
+        "other_type": "person",
+        "other_id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "enpower shows 11/9"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Deal #453278",
+        "other_type": "project",
+        "other_id": "4b36a6e3-9e55-4b9b-acef-8c2f7aadeb11",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "ETS has its ducks in a row with award for donations"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "ETS",
+        "other_type": "organization",
+        "other_id": "e39154d5-2342-42e5-80f7-2f48ae775566",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Get the details in eBiz."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "eBiz",
+        "other_type": "project",
+        "other_id": "b5a6d1ae-7afc-48d1-83f8-ac3a1f781b14",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I did not confirm this deal with them and I don't see it in the system."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Missing Deal",
+        "other_type": "project",
+        "other_id": "43ca9648-5218-4d20-986a-bb3eea8bbede",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "When the counterparty is ECT, the money (OUR MONEY) would theoretically be spread over the whole floor."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "counterparty",
+        "other_type": "topic",
+        "other_id": "8518a251-adfb-489d-9bc4-202adce05fef",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "The AmeriFlash Newsletter would like to keep you informed on global wholesa=20"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "AmeriFlash Newsletter",
+        "other_type": "topic",
+        "other_id": "8d4a03bc-46b1-4184-8e83-46e9c293b144",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "which was created by Enron Europe."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "GlobalFlash",
+        "other_type": "project",
+        "other_id": "a2f6afff-cdc5-4d75-a0ef-0ab592319c8f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "--- EMAIL BODY ---"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "True Orange Fax/E-Mail #65",
+        "other_type": "meeting",
+        "other_id": "65b963be-b4a7-4d55-9b1b-5efd0c88042a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "IPC knows, PGE trans knows,  PRM said they would call it in to BPA, and PWX is going to call it in to CISO",
+          "IPC knows, PGE trans knows,  PRM said they would call it in to BPA, and PWX is going to call it in to CISO"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Curtailments at Lagrande",
+        "other_type": "topic",
+        "other_id": "cc285975-7c79-48c6-b378-6f08a422837b",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Enron Sells Idaho",
+          "Enron Sells Idaho"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Deal 453938.01",
+        "other_type": "project",
+        "other_id": "4cf868e8-b2ce-4722-8139-366c81f9a8ca",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Sent by: Enron Announcements@ENRON",
+          "Enron Broadband 55.89%",
+          "Ameriflash Newsletter"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Ameriflash",
+        "other_type": "project",
+        "other_id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "We will be holding a benefit raffle and auction again this year, and all proceeds will once again be matched by Enron Corp.",
+          "all proceeds will once again be matched by Enron Corp."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Holiday Party & Benefit Auction",
+        "other_type": "meeting",
+        "other_id": "d482c86e-ef32-4beb-8e49-38d8641f062b",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "kerri.thompson@enron.com",
+          "kerri.thompson@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kerri Thompson",
+        "other_type": "person",
+        "other_id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "I'm using the user ID and password you gave me",
+          "To: kate.symes@enron.com",
+          "Kate Symes/PDX/ECT@ECT",
+          "matching dollars from Enron Corp."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "FROM: enron.announcements@enron.com (Enron Announcements)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "outgoing"
+      },
+      {
+        "excerpts": [
+          "Enron Compliance Officer Confidential - Conduct of Business Affairs P. O. Box 1188 Houston, Texas  77251-1188"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Enron Compliance Officer",
+        "other_type": "person",
+        "other_id": "0d55247a-b3a5-470a-b5cf-8024fa47e512",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To respond to the needs of our customers the following management appointments are effective immediately:"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Bal Wong",
+        "other_type": "person",
+        "other_id": "bff947ec-0817-4d5d-aef9-9f754199983c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_AT",
+        "other_name": "Ben Gwaltney",
+        "other_type": "person",
+        "other_id": "5dc0fd46-8a2a-4a3e-ac5c-dce6b741e129",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mike Swerzbin",
+        "other_type": "person",
+        "other_id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "For any further questions on this matter contact Sean Crandall or Chris Mallory"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_AT",
+        "other_name": "Sean Crandall",
+        "other_type": "person",
+        "other_id": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "particularly with Joe Sutton's departure"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Joe Sutton",
+        "other_type": "person",
+        "other_id": "87a1021e-5d1b-4d49-b78f-8dd5e12d52df",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "thanks Monika"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_AT",
+        "other_name": "Monika Causholli",
+        "other_type": "person",
+        "other_id": "5c499269-8f7c-404d-b95a-52b995e08d60",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: geir.solberg@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Geir Solberg",
+        "other_type": "person",
+        "other_id": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Greg Wolfe or Chris Foster will be there to oversee the signup process since I will be in Houston for training Monday through Wednesday next week."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Greg Wolfe",
+        "other_type": "person",
+        "other_id": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Lysa Akin/PDX/ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Lysa Akin",
+        "other_type": "person",
+        "other_id": "c52cd08e-54e2-4317-97f4-1f59f5e50af0",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Forwarded by Kim Ward/HOU/ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Kim Ward",
+        "other_type": "person",
+        "other_id": "760933d6-5b8f-4ebc-b6b8-b92d466013fa",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "His office is located in EB 3115."
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_AT",
+        "other_name": "Steve Thome",
+        "other_type": "person",
+        "other_id": "eaf96fef-00a8-4063-99df-2ca5cfbbe84d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: cara.semperger@enron.com (Cara Semperger)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Cara Semperger",
+        "other_type": "person",
+        "other_id": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: mark.guzman@enron.com",
+          "mark.guzman@enron.com",
+          "mark.guzman@enron.com",
+          "",
+          "mark.guzman@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 30,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To: Kate Symes/PDX/ECT@ECT",
+          "The tie point and Cal PX deals we uploaded this morning did in fact load as Enron Online deals.",
+          "FROM: kate.symes@enron.com (Kate Symes)",
+          "",
+          "FROM: kerri.thompson@enron.com (Kerri Thompson)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 22,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "carla.hoffman@enron.com",
+          "carla.hoffman@enron.com",
+          "Thank you all for being so patient with me while I am under Carla's wise tutelage.",
+          "Carla Hoffman@ECT",
+          "TO: carla.hoffman@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Carla Hoffman",
+        "other_type": "person",
+        "other_id": "bac9dad7-defa-4951-998b-ab052d426030",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: john.forney@enron.com (John M Forney)",
+          "john.forney@enron.com (John M Forney)",
+          "FROM: john.forney@enron.com",
+          "John M Forney (john.forney@enron.com)",
+          "john.forney@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mollie and Jessica will continue to provide primary administrative support",
+          "Mollie Gustafson, ext. 3817",
+          "FROM: mollie.gustafson@enron.com",
+          "mollie.gustafson@enron.com",
+          "mollie.gustafson@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mollie Gustafson",
+        "other_type": "person",
+        "other_id": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "mention_count": 5,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: tim.belden@enron.com",
+          "Forwarded by Christopher F Calger/PDX/ECT",
+          "From: tim.belden@enron.com (Tim Belden)",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Tim Belden",
+        "other_type": "person",
+        "other_id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "From:  Laura Wente                           10/10/2000 05:50 PM",
+          "",
+          "",
+          "Laura Wente/HOU/ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Laura Wente",
+        "other_type": "person",
+        "other_id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "mention_count": 4,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FYI",
+          "FROM: d.hunsucker@enron.com (D Brett Hunsucker)",
+          "FROM: d.hunsucker@enron.com (D Brett Hunsucker)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "D Brett Hunsucker",
+        "other_type": "person",
+        "other_id": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "cc: Kimberly Hundl/Corp/Enron@Enron",
+          "",
+          "FROM: sharen.cason@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Sharen Cason",
+        "other_type": "person",
+        "other_id": "0c531368-9509-47b9-b232-51006f22c822",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "kerri.thompson@enron.com",
+          "",
+          "FROM: kerri.thompson@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Kerri Thompson",
+        "other_type": "person",
+        "other_id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "TO: jeffrey.oh@enron.com",
+          "FROM: jeffrey.oh@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Jeffrey Oh",
+        "other_type": "person",
+        "other_id": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "ENRON\n121 SW SALMON ST\n3 WTC 03TF\nPORTLAND OR 97204",
+          "FROM: jskoog_vitoltvl@yahoo.com (JANET SKOOG <jskoog_vitoltvl@yahoo.com>)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Janet Skoog",
+        "other_type": "person",
+        "other_id": "2e56cc7e-d7b9-40b0-b5a1-f5c0ee852dae",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Forwarded by Christopher F Calger/PDX/ECT",
+          "Greg Wolfe or Chris Foster will be there to oversee the signup process since I will be in Houston for training Monday through Wednesday next week."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Chris",
+        "other_type": "person",
+        "other_id": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mark Frevert",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mark Frevert",
+        "other_type": "person",
+        "other_id": "219fb1be-254e-4f63-a42d-7e0f389b826d",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: melissa.murphy@enron.com",
+          "melissa.murphy@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Melissa Ann Murphy",
+        "other_type": "person",
+        "other_id": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "CC: kimberly.hundl@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Kimberly Hundl",
+        "other_type": "person",
+        "other_id": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "TO: jubran.whalan@enron.com",
+          "TO: jubran.whalan@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Jubran Whalan",
+        "other_type": "person",
+        "other_id": "4efc7e06-5e44-4c73-af51-4af4a8345646",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mike is replacing Wendella Rhoads who recently moved back to Eugene to be closer to family.",
+          "wendella.rhoads@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Wendella Rhoads",
+        "other_type": "person",
+        "other_id": "29fcf15a-80ac-4963-89e4-83136b2472aa",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: debra.davidson@enron.com (Debra Davidson)",
+          "If you work in West Power Trading, congratulations!  All West Power Trading employees are eligible to receive a pair of tickets to a Blazers game this season, compliments of Enron."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Debra Davidson",
+        "other_type": "person",
+        "other_id": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Anna Mehrer@ECT",
+          "For those of you who are not already familiar with Enron Broadband's arrangement with US Suites..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Anna Mehrer",
+        "other_type": "person",
+        "other_id": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "DEAN/CLINT",
+          "I see from your email you are at Enron now."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Clint Dean",
+        "other_type": "person",
+        "other_id": "75cdf3e3-fcc7-4087-9814-77e57ed92bb4",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: mary.hain@enron.com",
+          "Mary Hain/HOU/ECT"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mary Hain",
+        "other_type": "person",
+        "other_id": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Evelyn Metoyer@ENRON",
+          "Evelyn Metoyer@ENRON"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Evelyn Metoyer",
+        "other_type": "person",
+        "other_id": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Bob Badeer",
+        "other_type": "person",
+        "other_id": "32480d6d-9c65-44ca-8da7-f0e31138e6c5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "john.forney@enron.com (John M Forney)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Stewart Rosman",
+        "other_type": "person",
+        "other_id": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Gary Taylor, head of marketing"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Gary Taylor",
+        "other_type": "person",
+        "other_id": "122c0aa0-26c2-4a0c-8fbe-a3bfa9519e15",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Brando Hayden, trader"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Brando Hayden",
+        "other_type": "person",
+        "other_id": "e08e27af-9200-44f8-9f7c-3288a62a1cf0",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: stephanie.piwetz@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Stephanie Piwetz",
+        "other_type": "person",
+        "other_id": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: kerri.thompson@enron.com (Kerri Thompson)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Jeff",
+        "other_type": "person",
+        "other_id": "aa00a875-8fe2-4f0b-9967-d4e6ce08fc1c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "He has accepted a position with Portland General Electric, and we wish him well in all his future endeavors."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mike McClain",
+        "other_type": "person",
+        "other_id": "144c04e9-216b-477d-9ad6-458971882d05",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "On a sadder note, we will be losing Winston Goodbody on December 18th to a six month cross-country skiing trek across Wyoming."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Winston Goodbody",
+        "other_type": "person",
+        "other_id": "ca24992d-bfc6-41bc-accd-9865d7adb799",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Barbara Gray, ENA - Houston, Texas"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Barbara Gray",
+        "other_type": "person",
+        "other_id": "9cd445e2-dbb9-4e78-bfbb-697b493ee451",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "He comes to Enron through RHI Consulting where he contracted at Enron for the last 2 months and has now converted to full-time."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Richard Schweiger",
+        "other_type": "person",
+        "other_id": "def60bf6-8d8f-4e0f-8332-c4db93cb698a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "SARNOWSKI, JULIE L              TIMOTHY A HEIZENRADER           Oct 25, 2000"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Julie Sarnowski",
+        "other_type": "person",
+        "other_id": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Grace Rodriguez",
+          "FROM: grace.rodriguez@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Grace Rodriguez",
+        "other_type": "person",
+        "other_id": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: amy.fitzpatrick@enron.com",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Amy Fitzpatrick",
+        "other_type": "person",
+        "other_id": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "ENRON\n121 SW SALMON ST\n3 WTC 03TF\nPORTLAND OR 97204\nATTN-JESSICA BURRY"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Fuller",
+        "other_type": "person",
+        "other_id": "db61622c-1f46-48fa-ae7d-70f69b57111e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "CC: chris.mallory@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Chris Mallory",
+        "other_type": "person",
+        "other_id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Paul Kane has recently transferred from the IT infrastructure group to the IT applications group to work on SQL support and development."
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Paul Kane",
+        "other_type": "person",
+        "other_id": "5c1a8ac0-fdad-4077-bfcc-b5184786db2f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "ENRON 1400 SMITH HOUSTON TX 77002 ATTN TJAE BLACK X 35800"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Tamara Jae Black",
+        "other_type": "person",
+        "other_id": "beb5045e-5afa-41d9-b9dc-2474a340f006",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Public Relations group"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Michelle Vitrella",
+        "other_type": "person",
+        "other_id": "0258c836-288d-41fe-a0b7-e15771800b74",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Valarie Sabo",
+        "other_type": "person",
+        "other_id": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mollie and Jessica will continue to provide primary administrative support"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Jessica Burry",
+        "other_type": "person",
+        "other_id": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: lester.rawson@enron.com (Lester Rawson)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Lester Rawson",
+        "other_type": "person",
+        "other_id": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "stephen.thome@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Stephen Thome",
+        "other_type": "person",
+        "other_id": "76adb815-9307-497b-b745-0a04351ee696",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "George Weber@ENRON"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "George Weber",
+        "other_type": "person",
+        "other_id": "b29778d3-1c3a-4f5b-aed2-2feee8e21632",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Dale Rasmussen",
+        "other_type": "person",
+        "other_id": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "led by Mark Tawney, director"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Mark Tawney",
+        "other_type": "person",
+        "other_id": "dec7fe5e-08af-47c2-a34c-bdac39410856",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Steven Vu, head of trading"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Steven Vu",
+        "other_type": "person",
+        "other_id": "44837055-91b5-46fe-bf90-df7ef83b6c20",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "To respond to the needs of our customers the following management appointments are effective immediately:"
+        ],
+        "confidence": 1.0,
+        "rel_type": "WORKS_AT",
+        "other_name": "Alan Stringer",
+        "other_type": "person",
+        "other_id": "64f25de8-d214-4e2b-8fb4-c3031ca70bf4",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "input in enpower"
+        ],
+        "confidence": 0.8,
+        "rel_type": "WORKS_ON",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mark Fischer's west deals",
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "Mark Fischer",
+        "other_type": "person",
+        "other_id": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "mention_count": 2,
+        "detail": "west deals",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Regards, Cassandra Schultz Market Risk Management"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Market Risk Management",
+        "other_type": "organization",
+        "other_id": "2581e921-1bbd-49e4-8934-079b53462b01",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "West Origination Group",
+        "other_type": "organization",
+        "other_id": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "in consultation with the ENA Legal Department"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "ENA Legal Department",
+        "other_type": "organization",
+        "other_id": "b285c222-520e-4a6f-9e8b-5d32be457395",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "SARNOWSKI, JULIE L",
+        "other_type": "person",
+        "other_id": "cfbce187-6684-4d21-82ad-7fd5a5cf95c2",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Copies will be distributed to Legal and Credit.",
+          "Copies will be distributed to Legal and Credit."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Credit",
+        "other_type": "organization",
+        "other_id": "5bd76fd2-abf5-42a0-a0f7-9034c4cbae04",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "If you work in West Power Trading, congratulations!  All West Power Trading employees are eligible to receive a pair of tickets to a Blazers game this season, compliments of Enron."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "West Power Trading",
+        "other_type": "organization",
+        "other_id": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Middle Marketing",
+        "other_type": "organization",
+        "other_id": "a0c449a1-b61b-4260-937c-125852bd896c",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Pulp & Paper",
+        "other_type": "topic",
+        "other_id": "d7124e89-2507-4528-965a-bce4eb113324",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Copies will be distributed to Legal and Credit.",
+          "Copies will be distributed to Legal and Credit."
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Legal",
+        "other_type": "organization",
+        "other_id": "05f470b2-096e-4766-98d9-b4ab61ec6cdc",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Email: perfmgmt@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "PEP Help Desk",
+        "other_type": "organization",
+        "other_id": "73b45828-a768-4429-88d0-5639bf69fd2d",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "Treasury",
+        "other_type": "organization",
+        "other_id": "13568264-43eb-4f0f-9be3-9db6b50b5cbd",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "in consultation with the ENA Legal Department"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Compliance Department",
+        "other_type": "organization",
+        "other_id": "2bd9e117-95d8-404e-8be0-14f57f3a1eb7",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "cc: ENA/EGM/EIM"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "ENA/EGM/EIM",
+        "other_type": "organization",
+        "other_id": "c94ea785-c58c-42b3-a54a-2d6f51616c8b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "TO: portland.shift@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Portland Shift",
+        "other_type": "organization",
+        "other_id": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Volume Mgmt"
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "Volume Mgmt",
+        "other_type": "organization",
+        "other_id": "8e754463-74cc-4482-8ded-6d1b2407e205",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "Kristian J Lande",
+        "other_type": "person",
+        "other_id": "69db91a5-d09c-4e67-85d3-0ab2e18bfcc6",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Enron North America Corp.",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Laura Wente",
+        "other_type": "person",
+        "other_id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.8,
+        "rel_type": "PART_OF",
+        "other_name": "PEP",
+        "other_type": "organization",
+        "other_id": "c5969f38-550b-49e7-bbc6-dc27a711ef14",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Henry Van, General Manager, EH&S, Asset Operations"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Asset Operations",
+        "other_type": "organization",
+        "other_id": "1ce0e7db-15f2-4c06-adb8-ff4b24cc8136",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "",
+          "Enron North America each contributed $10 million in venture capital.",
+          "Enron North America Corp.",
+          "corporate is working on your vacation balance adjustment",
+          "Attached is a copy of a letter which we are sending to our Corporate, Enron= =20 North America Corp., Enron Energy Services Operations, Inc., Enron Broadban= d=20 Services, Inc., Enron Net Works, LLC,"
+        ],
+        "confidence": 1.0,
+        "rel_type": "PART_OF",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 14,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Allegheny Energy Supply Company, LLC, a wholly owned subsidiary of Allegheny=20 Energy, Inc., announced the signing of a definitive agreement under which=20 Allegheny Energy Supply will purchase three"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Allegheny Energy Supply Company, LLC",
+        "other_type": "organization",
+        "other_id": "3952ae15-528f-4180-ae2c-f76ae3ab56fd",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "For those of you who are not already familiar with Enron Broadband's arrangement with US Suites..."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "US Suites-Enron's Corp. Discount on Lodging",
+        "other_type": "project",
+        "other_id": "b20b1280-602f-4749-9950-611f2737a095",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Tridium Inc., the leading provider of Internet-based automation=20 infrastructure solutions, announced the close of a $20 million round of=20 capital funding."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Tridium Inc.",
+        "other_type": "organization",
+        "other_id": "b536441e-ba3a-4e8e-b4b6-73bc607ab3a5",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "\"Enron Corp., already North America's biggest, buyer and seller of natural=20 gas and electric power is dead serious about its efforts to capture a big=20 slice of the $400 billion global trade in pul"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Reuters News Service",
+        "other_type": "organization",
+        "other_id": "4e66a2ed-44f6-4da4-bd68-82ff77fe274f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "As of Thursday morning, 56.5% of the ENA/EGM/EIM employees= =20",
+          "Enron Broadband 55.89%"
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "The Pulse",
+        "other_type": "project",
+        "other_id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "mention_count": 2,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "The liquidity in trading of the Standard European Coal Agreement has=20 increased significantly over the last 6 weeks."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DISCUSSED_IN",
+        "other_name": "Standard European Coal Agreement",
+        "other_type": "project",
+        "other_id": "b8229cab-ef99-443c-9330-cf3d21790e2e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I have asked the risk group to put together a list of things they need to know from us each day;"
+        ],
+        "confidence": 0.9,
+        "rel_type": "DECIDED",
+        "other_name": "Tim Belden",
+        "other_type": "person",
+        "other_id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "mention_count": 1,
+        "detail": "to ask the risk group to put together a list of things they need to know from us each day",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Until that time,  do not submit bids to SELL for greater than $150."
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "John M Forney",
+        "other_type": "person",
+        "other_id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "mention_count": 1,
+        "detail": "do not submit bids to SELL for greater than $150",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Due to a very heavy, last minute influx of employees trying to make elections and/or changes to their 2001 benefits, the open enrollment 2001 deadline has been extended until 5pm Central Time on Frida",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "DECIDED",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 2,
+        "detail": "extend open enrollment 2001 deadline",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "corporate is working on your vacation balance adjustment"
+        ],
+        "confidence": 0.8,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "vacation balance",
+        "other_type": "topic",
+        "other_id": "afa8ac3c-3874-4e29-8d38-e62e76663740",
+        "mention_count": 1,
+        "detail": "adjustment",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "1. Review the program descriptions (attached to the Election Form) before you make your elections.",
+          "2. If you decide to defer compensation, complete the Election Form before Friday, December 8,  2000 (the enrollment deadline)."
+        ],
+        "confidence": 1.0,
+        "rel_type": "ASSIGNED_TO",
+        "other_name": "eligible.employees@enron.com",
+        "other_type": "topic",
+        "other_id": "cc529eb9-6afd-4c99-882b-1d45b196d124",
+        "mention_count": 2,
+        "detail": "review program descriptions",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Mark Guzman",
+          "As a result your temporary password for the PEP system has expired.",
+          ""
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Mark Guzman",
+        "other_type": "person",
+        "other_id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "mention_count": 3,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "deal 411762/411755"
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "deal 411762/411755",
+        "other_type": "project",
+        "other_id": "58391cc7-986c-427c-87ba-6a6253230579",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          ""
+        ],
+        "confidence": 0.6,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Rhonda L Denton",
+        "other_type": "person",
+        "other_id": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "What follows is a transcript of the speech delivered by Ellison at Yale University last month:"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Larry Ellison",
+        "other_type": "person",
+        "other_id": "bf333244-43f0-4c83-9184-3f95c1f1290e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I thought you would get a kick out of this speech that Larry Ellison (Oracle CEO) gave at Yale University to the Graduating class of 2000."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Yale University",
+        "other_type": "organization",
+        "other_id": "7cbd8bd5-3884-47e4-b6d9-da7bc5e50605",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I thought you would get a kick out of this speech that Larry Ellison (Oracle CEO) gave at Yale University to the Graduating class of 2000."
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Oracle",
+        "other_type": "organization",
+        "other_id": "770bdd66-7438-4ae7-b2f8-e686ac6c0edb",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Chris Mallory",
+        "other_type": "person",
+        "other_id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Enron's Year-End 2000 Performance Management Process has begun!"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Year-End 2000 Performance Management Process",
+        "other_type": "project",
+        "other_id": "f0b9cc07-0676-4a8f-bf91-1ce1361b7c76",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Sean forgot to put the broker in"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Sean",
+        "other_type": "person",
+        "other_id": "7cc5a090-a2ca-4729-b779-55f77806a2ed",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "missing deal with APB"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "APB",
+        "other_type": "project",
+        "other_id": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "enpower shows $67.75"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Evelyn Metoyer",
+        "other_type": "person",
+        "other_id": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "I was told that I will need an employee number in order to enter the hours"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Employee Number",
+        "other_type": "topic",
+        "other_id": "c2c7a9fd-62a9-4af3-82e2-3d994fa0f03e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FYI, We have replaced several printers and added 2 new color printers"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Mike McClain",
+        "other_type": "person",
+        "other_id": "144c04e9-216b-477d-9ad6-458971882d05",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Ameriflash Newsletter"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Ameriflash",
+        "other_type": "project",
+        "other_id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: kerri.thompson@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kerri Thompson",
+        "other_type": "person",
+        "other_id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "TO: kate.symes@enron.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Kate Symes",
+        "other_type": "person",
+        "other_id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "or the IVR at 1-800-425-5864"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "1-800-425-5864",
+        "other_type": "topic",
+        "other_id": "d5721003-c955-40ed-be85-38dce7fa70db",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Enron"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Mike Swerzbin",
+        "other_type": "person",
+        "other_id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "Please continue to access the web at www.enron.benefitsnow.com"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "www.Enron.BenefitsNow.com",
+        "other_type": "topic",
+        "other_id": "9b6f4795-1a63-400d-a53d-befa57c76d59",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      },
+      {
+        "excerpts": [
+          "FROM: enron.announcements@enron.com (Enron Announcements)"
+        ],
+        "confidence": 1.0,
+        "rel_type": "MENTIONED_IN",
+        "other_name": "Enron",
+        "other_type": "organization",
+        "other_id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "mention_count": 1,
+        "detail": "",
+        "direction": "incoming"
+      }
+    ]
+  },
+  "neighbourhood": {
+    "nodes": [
+      {
+        "id": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "name": "Enron",
+        "type": "organization",
+        "mentions": 490
+      },
+      {
+        "id": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "name": "Mark Guzman",
+        "type": "person",
+        "mentions": 248
+      },
+      {
+        "id": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "name": "Kate Symes",
+        "type": "person",
+        "mentions": 155
+      },
+      {
+        "id": "bac9dad7-defa-4951-998b-ab052d426030",
+        "name": "Carla Hoffman",
+        "type": "person",
+        "mentions": 45
+      },
+      {
+        "id": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "name": "Kerri Thompson",
+        "type": "person",
+        "mentions": 33
+      },
+      {
+        "id": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "name": "Portland Shift",
+        "type": "organization",
+        "mentions": 32
+      },
+      {
+        "id": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "name": "John M Forney",
+        "type": "person",
+        "mentions": 31
+      },
+      {
+        "id": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "name": "Mollie Gustafson",
+        "type": "person",
+        "mentions": 31
+      },
+      {
+        "id": "75cdf3e3-fcc7-4087-9814-77e57ed92bb4",
+        "name": "Clint Dean",
+        "type": "person",
+        "mentions": 31
+      },
+      {
+        "id": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "name": "Evelyn Metoyer",
+        "type": "person",
+        "mentions": 29
+      },
+      {
+        "id": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "name": "Chris",
+        "type": "person",
+        "mentions": 22
+      },
+      {
+        "id": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "name": "Laura Wente",
+        "type": "person",
+        "mentions": 22
+      },
+      {
+        "id": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "name": "Sean Crandall",
+        "type": "person",
+        "mentions": 21
+      },
+      {
+        "id": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "name": "Tim Belden",
+        "type": "person",
+        "mentions": 21
+      },
+      {
+        "id": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "name": "Amy Fitzpatrick",
+        "type": "person",
+        "mentions": 16
+      },
+      {
+        "id": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "name": "Mike Swerzbin",
+        "type": "person",
+        "mentions": 16
+      },
+      {
+        "id": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "name": "Stephanie Piwetz",
+        "type": "person",
+        "mentions": 13
+      },
+      {
+        "id": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "name": "Jessica Burry",
+        "type": "person",
+        "mentions": 13
+      },
+      {
+        "id": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "name": "Mark Fischer",
+        "type": "person",
+        "mentions": 13
+      },
+      {
+        "id": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "name": "Kimberly Hundl",
+        "type": "person",
+        "mentions": 12
+      },
+      {
+        "id": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "name": "Anna Mehrer",
+        "type": "person",
+        "mentions": 12
+      },
+      {
+        "id": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "name": "APB",
+        "type": "project",
+        "mentions": 11
+      },
+      {
+        "id": "0c531368-9509-47b9-b232-51006f22c822",
+        "name": "Sharen Cason",
+        "type": "person",
+        "mentions": 11
+      },
+      {
+        "id": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "name": "Debra Davidson",
+        "type": "person",
+        "mentions": 11
+      },
+      {
+        "id": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "name": "Cara Semperger",
+        "type": "person",
+        "mentions": 10
+      },
+      {
+        "id": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "name": "Chris Mallory",
+        "type": "person",
+        "mentions": 10
+      },
+      {
+        "id": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "name": "Mary Hain",
+        "type": "person",
+        "mentions": 10
+      },
+      {
+        "id": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "name": "Rhonda L Denton",
+        "type": "person",
+        "mentions": 9
+      },
+      {
+        "id": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "name": "Melissa Ann Murphy",
+        "type": "person",
+        "mentions": 7
+      },
+      {
+        "id": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "name": "D Brett Hunsucker",
+        "type": "person",
+        "mentions": 7
+      },
+      {
+        "id": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "name": "Julie Sarnowski",
+        "type": "person",
+        "mentions": 6
+      },
+      {
+        "id": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "name": "West Origination Group",
+        "type": "organization",
+        "mentions": 6
+      },
+      {
+        "id": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "name": "Jeffrey Oh",
+        "type": "person",
+        "mentions": 6
+      },
+      {
+        "id": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "name": "Greg Wolfe",
+        "type": "person",
+        "mentions": 6
+      },
+      {
+        "id": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "name": "Geir Solberg",
+        "type": "person",
+        "mentions": 6
+      },
+      {
+        "id": "ea31de87-d462-4a1c-920f-4d33d66e9565",
+        "name": "Elk Hunt",
+        "type": "project",
+        "mentions": 5
+      },
+      {
+        "id": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "name": "Ameriflash",
+        "type": "project",
+        "mentions": 5
+      },
+      {
+        "id": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "name": "Dale Rasmussen",
+        "type": "person",
+        "mentions": 5
+      },
+      {
+        "id": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "name": "Grace Rodriguez",
+        "type": "person",
+        "mentions": 5
+      },
+      {
+        "id": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "name": "The Pulse",
+        "type": "project",
+        "mentions": 5
+      },
+      {
+        "id": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "name": "West Power Trading",
+        "type": "organization",
+        "mentions": 5
+      },
+      {
+        "id": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "name": "Valarie Sabo",
+        "type": "person",
+        "mentions": 5
+      },
+      {
+        "id": "aa00a875-8fe2-4f0b-9967-d4e6ce08fc1c",
+        "name": "Jeff",
+        "type": "person",
+        "mentions": 5
+      },
+      {
+        "id": "219fb1be-254e-4f63-a42d-7e0f389b826d",
+        "name": "Mark Frevert",
+        "type": "person",
+        "mentions": 4
+      },
+      {
+        "id": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "name": "Jeff Shields",
+        "type": "person",
+        "mentions": 4
+      },
+      {
+        "id": "5bd76fd2-abf5-42a0-a0f7-9034c4cbae04",
+        "name": "Credit",
+        "type": "organization",
+        "mentions": 4
+      },
+      {
+        "id": "c52cd08e-54e2-4317-97f4-1f59f5e50af0",
+        "name": "Lysa Akin",
+        "type": "person",
+        "mentions": 4
+      },
+      {
+        "id": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "name": "Stewart Rosman",
+        "type": "person",
+        "mentions": 4
+      },
+      {
+        "id": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "name": "Lester Rawson",
+        "type": "person",
+        "mentions": 4
+      },
+      {
+        "id": "c5969f38-550b-49e7-bbc6-dc27a711ef14",
+        "name": "PEP",
+        "type": "organization",
+        "mentions": 4
+      }
+    ],
+    "edges": [
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bac9dad7-defa-4951-998b-ab052d426030",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "target": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "target": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "target": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "target": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "target": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "target": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.6
+      },
+      {
+        "source": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "target": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "target": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "rel_type": "DECIDED",
+        "confidence": 1.0
+      },
+      {
+        "source": "aa00a875-8fe2-4f0b-9967-d4e6ce08fc1c",
+        "target": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "rel_type": "WORKS_ON",
+        "confidence": 0.8
+      },
+      {
+        "source": "aa00a875-8fe2-4f0b-9967-d4e6ce08fc1c",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "c52cd08e-54e2-4317-97f4-1f59f5e50af0",
+        "target": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "c52cd08e-54e2-4317-97f4-1f59f5e50af0",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "target": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 0.8
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_ON",
+        "confidence": 0.8
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "DECIDED",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "0c531368-9509-47b9-b232-51006f22c822",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "target": "c5969f38-550b-49e7-bbc6-dc27a711ef14",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c531368-9509-47b9-b232-51006f22c822",
+        "target": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c531368-9509-47b9-b232-51006f22c822",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c531368-9509-47b9-b232-51006f22c822",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c531368-9509-47b9-b232-51006f22c822",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "c1452b64-9764-458b-925c-dc07439cf21e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.8
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "25d2c2bc-661e-4637-9261-9b32de6845c5",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "REPORTS_TO",
+        "confidence": 0.8
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "a743d712-5645-4063-a3f0-25856aea0fb7",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "5a91cd89-36fb-4d80-8e83-ae5f0f6cabb8",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "DECIDED",
+        "confidence": 0.9
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "rel_type": "DECIDED",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "rel_type": "WORKS_ON",
+        "confidence": 1.0
+      },
+      {
+        "source": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "9fa8d9bd-57bf-4535-aed6-e5023272b487",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "REPORTS_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "rel_type": "WORKS_ON",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "38407242-5e9d-461c-b6c8-05f7d81b9954",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "4e8f5c7b-9739-4670-98f6-46b31c56680e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "0c531368-9509-47b9-b232-51006f22c822",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "bf73b28a-7012-4542-bcb4-7f69e59fb0ca",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 0.8
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "22b46fcd-a487-4256-8f9f-54be4e331f3f",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "d7bca5d0-cadf-4a49-9d35-29b5de2973a0",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.6
+      },
+      {
+        "source": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "target": "0f45919f-ca59-4c74-afbc-367d7844fc7f",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "cf0596d7-ec1d-4da0-9633-b6af7fdf97cb",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "WORKS_ON",
+        "confidence": 1.0
+      },
+      {
+        "source": "7b2db48e-d7e7-4385-80b1-6cbf5c8dab36",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "aa00a875-8fe2-4f0b-9967-d4e6ce08fc1c",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "219fb1be-254e-4f63-a42d-7e0f389b826d",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "92323f43-78e4-4376-b993-7c0187f0d48a",
+        "target": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "rel_type": "DISCUSSED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "DECIDED",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "219fb1be-254e-4f63-a42d-7e0f389b826d",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.8
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "ea31de87-d462-4a1c-920f-4d33d66e9565",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.6
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "34307398-7a6b-4ed8-b879-0fe27a0ac403",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 0.8
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "c987f6c2-8fd2-402c-b1e1-d6b25717a944",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "83d50795-9826-45d6-be71-3769df3b3fa4",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 0.8
+      },
+      {
+        "source": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "target": "bac9dad7-defa-4951-998b-ab052d426030",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 0.8
+      },
+      {
+        "source": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "c396f849-6298-425c-8d29-2bb53462fc68",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "f15964a2-e534-421e-b157-66bbfcd44a4e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "ae48e5e2-5aa4-4a81-83fb-c35f15023d62",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "93c6a286-8dcc-4950-a7fa-93f03822d01e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "394adb9a-fb24-4f67-8cee-8477732a52fb",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "DECIDED",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "c5969f38-550b-49e7-bbc6-dc27a711ef14",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 0.8
+      },
+      {
+        "source": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "target": "88065512-4569-4dea-a9b3-6f5cabdd9624",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "0761fc79-8064-4b70-9cd4-3fa3ba707d04",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "5bd76fd2-abf5-42a0-a0f7-9034c4cbae04",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 1.0
+      },
+      {
+        "source": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "MENTIONED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "target": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "rel_type": "WORKS_AT",
+        "confidence": 0.8
+      },
+      {
+        "source": "022e8bed-18a5-4c35-b16e-07aed9dd4e56",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "1d8eec2f-5c72-431b-8311-ca75c4a50d0e",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "75cdf3e3-fcc7-4087-9814-77e57ed92bb4",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "51c7f1fd-77b3-4dae-ada6-41755401613b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "c52cd08e-54e2-4317-97f4-1f59f5e50af0",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "51683822-490a-4ba3-874c-2d21bf77faf6",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "23da329a-2caa-4027-a0e1-d68817b1aea9",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "b56168d5-179f-4f48-8384-b6f020cb5c77",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "48aef99b-2bf6-4428-876f-ed423d200e44",
+        "rel_type": "COMMUNICATED_WITH",
+        "confidence": 1.0
+      },
+      {
+        "source": "48575b75-4a5d-4151-8125-08c5c8ac10b6",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "5a707d31-092d-4e47-8e87-53bacb817947",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 0.8
+      },
+      {
+        "source": "dbb13c84-fbde-43a8-9d39-1556683be0e1",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "target": "0c0baec8-01e4-4a7d-bff3-4100903f9f9b",
+        "rel_type": "ASSIGNED_TO",
+        "confidence": 1.0
+      },
+      {
+        "source": "876f5dea-ff3b-41ad-9b5d-7c36a80ae428",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "PART_OF",
+        "confidence": 0.8
+      },
+      {
+        "source": "c2e986c8-f928-441d-9959-4fe6285b1f92",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "target": "48b45e01-fa7c-4489-b45f-69f95e082633",
+        "rel_type": "DISCUSSED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "target": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "rel_type": "DISCUSSED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "7cb5c8f5-9d6d-4453-a697-4ffbbf6fc67f",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "DISCUSSED_IN",
+        "confidence": 1.0
+      },
+      {
+        "source": "75cdf3e3-fcc7-4087-9814-77e57ed92bb4",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      },
+      {
+        "source": "d2d116a3-fcee-4f0a-8340-47b730cf9e27",
+        "target": "a0d5277d-fe24-4289-8e3d-174e4173c534",
+        "rel_type": "WORKS_AT",
+        "confidence": 1.0
+      }
+    ]
+  }
+}

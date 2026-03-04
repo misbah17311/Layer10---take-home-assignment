@@ -1,0 +1,28 @@
+# Core
+pandas>=2.0
+pydantic>=2.0
+python-dotenv>=1.0
+tqdm>=4.60
+requests>=2.28
+
+# LLM providers
+groq>=0.4
+
+# Deduplication
+rapidfuzz>=3.0
+
+# Graph database
+neo4j>=5.0
+
+# Retrieval API
+fastapi>=0.100
+uvicorn>=0.20
+
+# Visualization
+streamlit>=1.30
+streamlit-agraph>=0.0.45
+pyvis>=0.3
+
+# Data analysis (optional)
+matplotlib>=3.5
+seaborn>=0.12

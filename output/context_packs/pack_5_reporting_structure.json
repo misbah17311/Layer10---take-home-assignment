@@ -1,0 +1,71 @@
+{
+  "query": "Claims: REPORTS_TO",
+  "claims": [
+    {
+      "subject": "Julie Sarnowski",
+      "rel_type": "REPORTS_TO",
+      "object": "Timothy A Heizenrader",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "SARNOWSKI, JULIE L              TIMOTHY A HEIZENRADER           Oct 25, 2000"
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "REPORTS_TO",
+      "object": "Jeff Richter",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "report to Jeff Richter"
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "REPORTS_TO",
+      "object": "Tim Belden",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "report to Tim Belden"
+      ]
+    },
+    {
+      "subject": "Bal Wong",
+      "rel_type": "REPORTS_TO",
+      "object": "Alan Stringer",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "Bal Wong EHS Manager based in Guam will report to Alan."
+      ]
+    },
+    {
+      "subject": "Alan Stringer",
+      "rel_type": "REPORTS_TO",
+      "object": "Henry Van",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "Alan will continue to report to myself and Brian Stanley (based in London)."
+      ]
+    },
+    {
+      "subject": "Laura Wente",
+      "rel_type": "REPORTS_TO",
+      "object": "Chris",
+      "confidence": 0.8,
+      "mentions": 1,
+      "detail": "",
+      "evidence": [
+        "Laura will continue to work in the West Origination Group here in Portland"
+      ]
+    }
+  ]
+}

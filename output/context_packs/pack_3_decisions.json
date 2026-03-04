@@ -1,0 +1,226 @@
+{
+  "query": "Claims: DECIDED",
+  "claims": [
+    {
+      "subject": "Enron",
+      "rel_type": "DECIDED",
+      "object": "Enron",
+      "confidence": 1.0,
+      "mentions": 2,
+      "detail": "extend open enrollment 2001 deadline",
+      "evidence": [
+        "Due to a very heavy, last minute influx of employees trying to make elections and/or changes to their 2001 benefits, the open enrollment 2001 deadline has been extended until 5pm Central Time on Frida",
+        ""
+      ]
+    },
+    {
+      "subject": "John M Forney",
+      "rel_type": "DECIDED",
+      "object": "Enron",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "do not submit bids to SELL for greater than $150",
+      "evidence": [
+        "Until that time,  do not submit bids to SELL for greater than $150."
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "DECIDED",
+      "object": "megawatts",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "50 MW",
+      "evidence": [
+        "Both deals were 50 MW"
+      ]
+    },
+    {
+      "subject": "Enron",
+      "rel_type": "DECIDED",
+      "object": "Richard Sanders",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "approval by Mark Haedicke or Richard Sanders",
+      "evidence": [
+        "Any exception to this policy requires approval by Mark Haedicke or= =20 Richard Sanders."
+      ]
+    },
+    {
+      "subject": "Mark Guzman",
+      "rel_type": "DECIDED",
+      "object": "Mark Guzman",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "swap should be changed to 25MW at $130",
+      "evidence": [
+        "The swap should be chaqnged to 25MW at $130"
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "DECIDED",
+      "object": "Deal #458391",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "does NOT need to be confirmed",
+      "evidence": [
+        "Deal #458391 does NOT need to be confirmed per Paul Choi"
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "DECIDED",
+      "object": "Deal #457963",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "does need to be confirmed",
+      "evidence": [
+        "Deal #457963 DOES need to be confirmed"
+      ]
+    },
+    {
+      "subject": "Tim Belden",
+      "rel_type": "DECIDED",
+      "object": "The Pulse",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "Everyone in West Power Trading should fill out the survey.",
+      "evidence": [
+        "I'm asking everyone in West Power Trading to go into \"The Pulse\" and fill out the survey."
+      ]
+    },
+    {
+      "subject": "Mack Brown",
+      "rel_type": "DECIDED",
+      "object": "Texas",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "don't deserve their No. 7 national ranking heading into the season",
+      "evidence": [
+        "Brown said the Longhorns don't deserve their No. 7 national ranking heading into the season, but he said the team has a chance to improve enough to deserve the high ranking later this year."
+      ]
+    },
+    {
+      "subject": "Kate Symes",
+      "rel_type": "DECIDED",
+      "object": "Firm Energy",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "default to Firm Energy",
+      "evidence": [
+        "all deals not using NP15, SP15, or ZP26 should default to Firm Energy"
+      ]
+    },
+    {
+      "subject": "Stephanie Piwetz",
+      "rel_type": "DECIDED",
+      "object": "Firm Energy",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "change energy to Firm",
+      "evidence": [
+        "we will need to revise the Confirmation Letter"
+      ]
+    },
+    {
+      "subject": "Rhonda L Denton",
+      "rel_type": "DECIDED",
+      "object": "Rhonda L Denton",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "Please book new deals to Calpine Energy Services, LP",
+      "evidence": [
+        "Please book new deals to Calpine Energy Services, LP"
+      ]
+    },
+    {
+      "subject": "Teri Whitcomb",
+      "rel_type": "DECIDED",
+      "object": "Teri Whitcomb",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "to set up the In-Focus Projector as a resource in the Portland Conference Room Calendar",
+      "evidence": [
+        "The In-Focus Projector has been set up as a \"Resource\" in the Portland Conference Room Calendar."
+      ]
+    },
+    {
+      "subject": "Enron",
+      "rel_type": "DECIDED",
+      "object": "Deferral Enrollment 2001",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "enrollment begins on November 15, 2000",
+      "evidence": [
+        "Deferral program enrollment begins Wednesday, November 15, 2000."
+      ]
+    },
+    {
+      "subject": "Enron",
+      "rel_type": "DECIDED",
+      "object": "Mark Haedicke",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "approval by Mark Haedicke or Richard Sanders",
+      "evidence": [
+        "Any exception to this policy requires approval by Mark Haedicke or= =20 Richard Sanders."
+      ]
+    },
+    {
+      "subject": "Mike Driscoll",
+      "rel_type": "DECIDED",
+      "object": "deal number 458405",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "should be correct now",
+      "evidence": [
+        "Mike Driscoll went in and changed this deal to match 458405."
+      ]
+    },
+    {
+      "subject": "Melissa Ann Murphy",
+      "rel_type": "DECIDED",
+      "object": "Deal # 450052",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "change counterparty to Transcanada Power, a division of Transcanada Energy Ltd",
+      "evidence": [
+        "Hi, please change deal # 450052 from Transcanada Power Marketing Ltd to Transcanada Power, a division of Transcanada Energy Ltd."
+      ]
+    },
+    {
+      "subject": "Veronica Gonzalez",
+      "rel_type": "DECIDED",
+      "object": "Deal # 450052",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "rebook deal # 450052 from Transcanada Power Marketing Ltd. to Transcanada Power Canada, division of Transcanada Energy, Ltd.",
+      "evidence": [
+        "Please rebook deal # 450052 from Transcanada Power Marketing Ltd. to Transcanada Power Canada, division of Transcanada Energy, Ltd."
+      ]
+    },
+    {
+      "subject": "Amy Fitzpatrick",
+      "rel_type": "DECIDED",
+      "object": "QualMed",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "eliminated as an HMO choice for 2001",
+      "evidence": [
+        "QualMed has been eliminated as an HMO choice for 2001 due to increased premium costs and low usage."
+      ]
+    },
+    {
+      "subject": "ISO",
+      "rel_type": "DECIDED",
+      "object": "ISO staff",
+      "confidence": 1.0,
+      "mentions": 1,
+      "detail": "is authorized to enter into contract for approximately 2,000 MW of peaking capacity for a period of three years at a total cost for capacity not to exceed $255 million per year.",
+      "evidence": [
+        "An emergency board meeting was called to vote on the resolution, which said that ISO staff 'is authorized to enter into contract for approximately 2,000 MW of peaking capacity for a period of three ye"
+      ]
+    }
+  ]
+}

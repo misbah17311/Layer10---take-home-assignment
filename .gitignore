@@ -1,0 +1,26 @@
+# Ignore env files with secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data (too large to commit)
+data/emails.csv
+data/data_Enron.zip
+
+# Extraction intermediates (large + regeneratable)
+output/extractions/
+output/extraction_checkpoint.json
+output/extraction_checkpoint.json.bak
+output/extraction_log.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+Gemini(API).txt
+layer10-takehome.pdf
+lib/

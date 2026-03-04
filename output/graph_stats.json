@@ -1,0 +1,76 @@
+{
+  "total_nodes": 2119,
+  "total_relationships": 2411,
+  "node_types": {
+    "person": 744,
+    "organization": 608,
+    "topic": 396,
+    "project": 273,
+    "meeting": 98
+  },
+  "rel_types": {
+    "MENTIONED_IN": 1016,
+    "COMMUNICATED_WITH": 639,
+    "DISCUSSED_IN": 252,
+    "WORKS_ON": 141,
+    "WORKS_AT": 133,
+    "PART_OF": 76,
+    "ATTENDED": 74,
+    "ASSIGNED_TO": 50,
+    "DECIDED": 24,
+    "REPORTS_TO": 6
+  },
+  "top_connected": [
+    {
+      "name": "Mark Guzman",
+      "type": "person",
+      "degree": 198
+    },
+    {
+      "name": "Kate Symes",
+      "type": "person",
+      "degree": 164
+    },
+    {
+      "name": "Enron",
+      "type": "organization",
+      "degree": 158
+    },
+    {
+      "name": "TruOrange",
+      "type": "organization",
+      "degree": 86
+    },
+    {
+      "name": "Texas",
+      "type": "organization",
+      "degree": 60
+    },
+    {
+      "name": "True Orange Fax/E-Mail #107",
+      "type": "project",
+      "degree": 55
+    },
+    {
+      "name": "Tim Belden",
+      "type": "person",
+      "degree": 45
+    },
+    {
+      "name": "John M Forney",
+      "type": "person",
+      "degree": 45
+    },
+    {
+      "name": "Anna Mehrer",
+      "type": "person",
+      "degree": 44
+    },
+    {
+      "name": "Amy Fitzpatrick",
+      "type": "person",
+      "degree": 38
+    }
+  ],
+  "isolated_nodes": 625
+}
