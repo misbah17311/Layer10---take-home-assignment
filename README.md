@@ -1,7 +1,4 @@
 # Grounded Long-Term Memory via Structured Extraction
-
-**Layer10 Take-Home Assignment**
-
 A system that extracts structured knowledge from the Enron Email Dataset (2,000 emails),
 deduplicates entities via a 3-pass resolution pipeline, builds a Neo4j knowledge graph,
 and provides retrieval APIs with interactive visualization.
